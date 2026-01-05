@@ -13,10 +13,10 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
 
-    - name: Install system tools
+    - name: Install 7zip
       run: |
         sudo apt-get update
-        sudo apt-get install -y unzip
+        sudo apt-get install -y p7zip-full
 
     - name: Set up Python
       uses: actions/setup-python@v5
@@ -29,7 +29,7 @@ jobs:
 
     - name: Decrypt dishEPGgen.zip
       run: |
-        unzip -P "${{ secrets.DISH_ZIP_PASSWORD }}" dishEPGgen.zip
+        7z x dishEPGgen.zip -p"${{ secrets.DISH_ZIP_PASSWORD }}" -y
         chmod +x dish.py
 
     - name: Run EPG generator
