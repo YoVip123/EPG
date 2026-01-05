@@ -35,16 +35,17 @@ jobs:
     - name: Run EPG generator
       run: |
         python dish.py
+        ls -lh
 
-    - name: Secure cleanup (DESTROY SOURCE)
+    - name: Upload EPG output
+      uses: actions/upload-artifact@v4
+      with:
+        name: DishTV-EPG
+        path: |
+          channels.json
+          dishtvEPG.xml.gz
+
+    - name: Secure cleanup
       run: |
         shred -u dish.py
         rm -rf __pycache__ *.py
-
-    - name: Upload EPG artifact
-      uses: actions/upload-artifact@v4
-      with:
-        name: dishtvEPG
-        path: |
-          dishtvEPG.xml.gz
-          channels.json
