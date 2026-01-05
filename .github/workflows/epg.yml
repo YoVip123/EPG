@@ -1,0 +1,50 @@
+name: DishTV EPG (Protected Source)
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */12 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Install system tools
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y unzip
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: "3.11"
+
+    - name: Install Python dependencies
+      run: |
+        pip install -r requirements.txt
+
+    - name: Decrypt dishEPGgen.zip
+      run: |
+        unzip -P "${{ secrets.DISH_ZIP_PASSWORD }}" dishEPGgen.zip
+        chmod +x dish.py
+
+    - name: Run EPG generator
+      run: |
+        python dish.py
+
+    - name: Secure cleanup (DESTROY SOURCE)
+      run: |
+        shred -u dish.py
+        rm -rf __pycache__ *.py
+
+    - name: Upload EPG artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: dishtvEPG
+        path: |
+          dishtvEPG.xml.gz
+          channels.json
