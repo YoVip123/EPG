@@ -1,9 +1,9 @@
-name: DishTV EPG (Protected Source)
+name: DishTV EPG (Protected Source → Commit Output)
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *"   # every 12 hours
 
 jobs:
   build:
@@ -12,6 +12,8 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
+      with:
+        persist-credentials: true   # REQUIRED for git push
 
     - name: Install 7zip
       run: |
@@ -27,25 +29,32 @@ jobs:
       run: |
         pip install -r requirements.txt
 
-    - name: Decrypt dishEPGgen.zip
+    - name: Decrypt protected source
       run: |
         7z x dishEPGgen.zip -p"${{ secrets.DISH_ZIP_PASSWORD }}" -y
         chmod +x dish.py
 
-    - name: Run EPG generator
+    - name: Run DishTV EPG generator
       run: |
         python dish.py
+        echo "Files after generation:"
         ls -lh
 
-    - name: Upload EPG output
-      uses: actions/upload-artifact@v4
-      with:
-        name: DishTV-EPG
-        path: |
-          channels.json
-          dishtvEPG.xml.gz
-
-    - name: Secure cleanup
+    - name: Secure cleanup (destroy source)
       run: |
         shred -u dish.py
         rm -rf __pycache__ *.py
+
+    - name: Commit generated EPG files
+      run: |
+        git config user.name "github-actions"
+        git config user.email "actions@github.com"
+
+        git add channels.json dishtvEPG.xml.gz
+
+        if git diff --cached --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Auto update DishTV EPG"
+          git push
+        fi
