@@ -1,34 +1,45 @@
-name: Fetch Schedule JSON
+name: Fetch TataPlay Schedule
 
 on:
-  workflow_dispatch:   # manual run button
+  workflow_dispatch:   # manual run
   schedule:
-    - cron: "0 */6 * * *"   # runs every 6 hours
+    - cron: "0 */6 * * *"   # every 6 hours
 
 jobs:
   fetch:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repo
+      # 1. Checkout repo
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
+      # 2. Setup Python
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
+      # 3. Install requests
       - name: Install Dependencies
         run: pip install requests
 
+      # 4. Run your script
       - name: Run Script
         run: python fetch_schedule.py
 
-      - name: Commit & Push File
+      # 5. Show generated files (debug)
+      - name: List files
+        run: ls -la
+
+      # 6. Commit & push (handles dynamic filename)
+      - name: Commit and Push
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
 
-          git add schedule.json
-          git commit -m "Update schedule.json" || echo "No changes"
+          git add *.json
+
+          git commit -m "Update schedule JSON" || echo "No changes to commit"
+
           git push
