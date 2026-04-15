@@ -799,17 +799,6 @@
             "catchup": true
           },
           {
-            "id": 93548319,
-            "startTime": 1776461400000,
-            "endTime": 1776463200000,
-            "title": "Makeup Tips&Tricks",
-            "desc": ". S01 E01.",
-            "seriesId": "TSBTYMT",
-            "epgState": "FORWARD",
-            "epgSlotId": "65282604180300",
-            "catchup": true
-          },
-          {
             "id": 93548302,
             "startTime": 1776463200000,
             "endTime": 1776465000000,
@@ -6791,6 +6780,17 @@
             "seriesId": "ZEHDJagadhatri",
             "epgState": "FORWARD",
             "epgSlotId": "66972604180230",
+            "catchup": true
+          },
+          {
+            "id": 93571803,
+            "startTime": 1776461400000,
+            "endTime": 1776463200000,
+            "title": "Saru",
+            "desc": "A kabaddi player balances her ambitions while fighting for her mother's family status. S01 E337.",
+            "seriesId": "ZEHDSaru",
+            "epgState": "FORWARD",
+            "epgSlotId": "66972604180300",
             "catchup": true
           },
           {
