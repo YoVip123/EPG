@@ -1780,17 +1780,6 @@
             "catchup": true
           },
           {
-            "id": 93548371,
-            "startTime": 1776495600000,
-            "endTime": 1776497400000,
-            "title": "Street Food",
-            "desc": "Learn some delicious & mouth-watering recipes of street foods found in India. S01 E32.",
-            "seriesId": "TSCOOKStreet Food",
-            "epgState": "FORWARD",
-            "epgSlotId": "65382604181230",
-            "catchup": true
-          },
-          {
             "id": 93548370,
             "startTime": 1776497400000,
             "endTime": 1776499200000,
@@ -5145,6 +5134,17 @@
             "seriesId": "SABTMKOC",
             "epgState": "FORWARD",
             "epgSlotId": "64122604181200",
+            "catchup": false
+          },
+          {
+            "id": 93566048,
+            "startTime": 1776495600000,
+            "endTime": 1776497400000,
+            "title": "Taarak Mehta Ka Ooltah Chashmah",
+            "desc": "Anjali suspects that Taarak is hiding something in his laptop when he behaves in a secretive manner. S01 E1179.",
+            "seriesId": "SABTMKOC",
+            "epgState": "FORWARD",
+            "epgSlotId": "64122604181230",
             "catchup": false
           },
           {
