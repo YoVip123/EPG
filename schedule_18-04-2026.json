@@ -456,6 +456,17 @@
             "catchup": true
           },
           {
+            "id": 93544024,
+            "startTime": 1776461400000,
+            "endTime": 1776463200000,
+            "title": "Soothing Music",
+            "desc": "Serene music to unwind after a long day covering different tunes like music for de-stressing, nature sounds, etc. S01 E609.",
+            "seriesId": "ACTFITSM",
+            "epgState": "FORWARD",
+            "epgSlotId": "65442604180300",
+            "catchup": true
+          },
+          {
             "id": 93543981,
             "startTime": 1776463200000,
             "endTime": 1776465000000,
@@ -5148,17 +5159,6 @@
             "catchup": false
           },
           {
-            "id": 93566048,
-            "startTime": 1776495600000,
-            "endTime": 1776497400000,
-            "title": "Taarak Mehta Ka Ooltah Chashmah",
-            "desc": "Anjali suspects that Taarak is hiding something in his laptop when he behaves in a secretive manner. S01 E1179.",
-            "seriesId": "SABTMKOC",
-            "epgState": "FORWARD",
-            "epgSlotId": "64122604181230",
-            "catchup": false
-          },
-          {
             "id": 93566057,
             "startTime": 1776497400000,
             "endTime": 1776499200000,
@@ -6642,6 +6642,17 @@
             "seriesId": "ANDTVBjGPH",
             "epgState": "FORWARD",
             "epgSlotId": "59392604181200",
+            "catchup": false
+          },
+          {
+            "id": 93549219,
+            "startTime": 1776495600000,
+            "endTime": 1776496500000,
+            "title": "Bhabi ji Ghar Par Hai!",
+            "desc": "In an attempt to sabotage Happu's catering business, Manmohan messes with Happu's tiffin. S01 E90.",
+            "seriesId": "ANDTVBjGPH",
+            "epgState": "FORWARD",
+            "epgSlotId": "59392604181230",
             "catchup": false
           },
           {
@@ -8346,17 +8357,6 @@
             "seriesId": "ACJAJe Na Hoye",
             "epgState": "FORWARD",
             "epgSlotId": "65542604180200",
-            "catchup": false
-          },
-          {
-            "id": 93543914,
-            "startTime": 1776461400000,
-            "endTime": 1776465000000,
-            "title": "Ati Parichaen",
-            "desc": "Javed Akhtar interprets Vrind's doha \"Ati Parichaen\" where he talks about how familiarity breeds contempt. Hence, similarity is comforting but you need diversification to grow and appreciate. S01 E48.",
-            "seriesId": "ACJAAti Parichaen",
-            "epgState": "FORWARD",
-            "epgSlotId": "65542604180300",
             "catchup": false
           },
           {
