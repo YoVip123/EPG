@@ -568,7 +568,7 @@
             "title": "TATA IPL-Cricket Countdown",
             "desc": "TATA IPL;A countdown of some of the best moments from various cricket matches.",
             "seriesId": "",
-            "epgState": "ON_AIR",
+            "epgState": "REVERSE",
             "epgSlotId": "64292604181230",
             "catchup": false
           },
@@ -579,7 +579,7 @@
             "title": "Cricket Fillers - IPL (2023 to 2027)",
             "desc": "Bringing the best in television.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64292604181255",
             "catchup": false
           },
@@ -590,7 +590,7 @@
             "title": "TATA IPL-Game Plan",
             "desc": "TATA IPL;Experts preview the strengths, weaknesses and strategies of teams before a cricket series.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64292604181300",
             "catchup": false
           },
@@ -601,7 +601,7 @@
             "title": "Delhi Capitals vs. Royal Challengers Bangalore-TATA IPL 2025",
             "desc": "Delhi Capitals vs. Royal Challengers Bangalore;Highlights from the 2025 Tata IPL match between Delhi Capitals and Royal Challengers Bangalore.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64292604181315",
             "catchup": false
           },
@@ -612,7 +612,7 @@
             "title": "2026: Gujarat Titans vs. Kolkata Knight Riders 25th Match-TATA IPL",
             "desc": "2026: Gujarat Titans vs. Kolkata Knight Riders 25th Match;A detailed revisit of match highlights of the Indian Premier League cricket tournament.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64292604181330",
             "catchup": false
           },
@@ -623,7 +623,7 @@
             "title": "Cricket Fillers - IPL (2023 to 2027)",
             "desc": "Bringing the best in television.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64292604181355",
             "catchup": false
           },
@@ -634,7 +634,7 @@
             "title": "TATA IPL-Match Point",
             "desc": "TATA IPL;Experts share analysis and highlights from the latest cricket tournament.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64292604181400",
             "catchup": false
           },
@@ -645,7 +645,7 @@
             "title": "2026: Gujarat Titans vs. Kolkata Knight Riders 25th Match-TATA IPL",
             "desc": "2026: Gujarat Titans vs. Kolkata Knight Riders 25th Match;A detailed revisit of match highlights of the Indian Premier League cricket tournament.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64292604181415",
             "catchup": false
           },
@@ -656,7 +656,7 @@
             "title": "Live-IPL-Amul Cricket Pre Show",
             "desc": "IPL;Experts discuss and predict outcomes of various cricket tournaments.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64292604181430",
             "catchup": false
           },
@@ -667,7 +667,7 @@
             "title": "Live-Royal Challengers Bengaluru vs. Delhi Capitals-TATA IPL",
             "desc": "Royal Challengers Bengaluru vs. Delhi Capitals;From M. Chinnaswamy Stadium in Bangalore, Karnataka, India.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64292604181520",
             "catchup": false
           },
@@ -678,7 +678,7 @@
             "title": "Live-IPL-Amul Cricket Mid Show",
             "desc": "IPL;Experts discuss and predict outcomes of various cricket tournaments.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64292604181700",
             "catchup": false
           },
@@ -689,7 +689,7 @@
             "title": "Live-Royal Challengers Bengaluru vs. Delhi Capitals-TATA IPL",
             "desc": "Royal Challengers Bengaluru vs. Delhi Capitals;From M. Chinnaswamy Stadium in Bangalore, Karnataka, India.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64292604181720",
             "catchup": false
           },
@@ -700,7 +700,7 @@
             "title": "Live-IPL-Amul Cricket Pre Show",
             "desc": "IPL;Experts discuss and predict outcomes of various cricket tournaments.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64292604181850",
             "catchup": false
           },
@@ -711,7 +711,7 @@
             "title": "Live-Sunrisers Hyderabad vs. Chennai Super Kings-TATA IPL",
             "desc": "Sunrisers Hyderabad vs. Chennai Super Kings;From Rajiv Gandhi International Cricket Stadium in Hyderabad, Andhra Pradesh, India.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64292604181920",
             "catchup": false
           },
@@ -722,7 +722,7 @@
             "title": "Live-IPL-Amul Cricket Mid Show",
             "desc": "IPL;Experts discuss and predict outcomes of various cricket tournaments.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64292604182100",
             "catchup": false
           },
@@ -733,7 +733,7 @@
             "title": "Live-Sunrisers Hyderabad vs. Chennai Super Kings-TATA IPL",
             "desc": "Sunrisers Hyderabad vs. Chennai Super Kings;From Rajiv Gandhi International Cricket Stadium in Hyderabad, Andhra Pradesh, India.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64292604182120",
             "catchup": false
           },
@@ -744,7 +744,7 @@
             "title": "Live-Tottenham Hotspur vs. Brighton & Hove Albion-Premier League",
             "desc": "Tottenham Hotspur vs. Brighton & Hove Albion;From Tottenham Hotspur Stadium in London.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64292604182300",
             "catchup": false
           }
@@ -1067,7 +1067,7 @@
             "title": "How To Thrive in Life Healthy Lifestyle - Nutrition",
             "desc": "Cook and eat healthy, understand the nutritional values of food, know what meals your favourite celebs love eating. S01 E863.",
             "seriesId": "ACTFITHTTiLHLN",
-            "epgState": "ON_AIR",
+            "epgState": "REVERSE",
             "epgSlotId": "65442604181230",
             "catchup": true
           },
@@ -1078,7 +1078,7 @@
             "title": "Fit & Famous",
             "desc": "Indulge in one to one coversation with famous celebrities to know their fitness regime. S01 E137.",
             "seriesId": "ACTFITFit  Famous",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65442604181300",
             "catchup": true
           },
@@ -1089,7 +1089,7 @@
             "title": "Health & Wellness Podcast",
             "desc": "\"Inspiring conversations and expert tips to help you live a healthier, happier life-one episode at a time.\". S01 E890.",
             "seriesId": "ACTFITHWP",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65442604181330",
             "catchup": true
           },
@@ -1100,7 +1100,7 @@
             "title": "Yoga For Immunity",
             "desc": "Specially curated sessions of fitness & well-being for women like self-defense, dance workout, Pre-natal Yoga, etc. S01 E13.",
             "seriesId": "ACTFITYFI",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65442604181400",
             "catchup": true
           },
@@ -1111,7 +1111,7 @@
             "title": "How To Thrive in Life Healthy Lifestyle - Nutrition",
             "desc": "Cook and eat healthy, understand the nutritional values of food, know what meals your favourite celebs love eating. S01 E863.",
             "seriesId": "ACTFITHTTiLHLN",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65442604181430",
             "catchup": true
           },
@@ -1122,7 +1122,7 @@
             "title": "Yoga For Immunity",
             "desc": "Specially curated sessions of fitness & well-being for women like self-defense, dance workout, Pre-natal Yoga, etc. S01 E13.",
             "seriesId": "ACTFITYFI",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65442604181500",
             "catchup": true
           },
@@ -1133,7 +1133,7 @@
             "title": "How To Thrive in Life Healthy Lifestyle - Nutrition",
             "desc": "Cook and eat healthy, understand the nutritional values of food, know what meals your favourite celebs love eating. S01 E863.",
             "seriesId": "ACTFITHTTiLHLN",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65442604181530",
             "catchup": true
           },
@@ -1144,7 +1144,7 @@
             "title": "Yoga with Vrinda Sharma",
             "desc": "Tone your body and increase your flexibility with our 30 minute yoga session. S01 E124.",
             "seriesId": "ACTFITYwVS",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65442604181600",
             "catchup": true
           },
@@ -1155,7 +1155,7 @@
             "title": "Ayurveda",
             "desc": "Ayurveda emphasizes food that supports physical health, mental clarity, and spiritual growth. It is sattvic in nature. S01 E944.",
             "seriesId": "ACTFITAyurveda",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65442604181630",
             "catchup": true
           },
@@ -1166,7 +1166,7 @@
             "title": "How To Thrive in Life Healthy Lifestyle - Nutrition",
             "desc": "Cook and eat healthy, understand the nutritional values of food, know what meals your favourite celebs love eating. S01 E863.",
             "seriesId": "ACTFITHTTiLHLN",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65442604181700",
             "catchup": true
           },
@@ -1177,7 +1177,7 @@
             "title": "Yoga with Vrinda Sharma",
             "desc": "Tone your body and increase your flexibility with our 30 minute yoga session. S01 E124.",
             "seriesId": "ACTFITYwVS",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65442604181730",
             "catchup": true
           },
@@ -1188,7 +1188,7 @@
             "title": "Tai Chi with Edwin Moses for Seniors",
             "desc": "Maintain your body balance and live stress-free with our Yoga and Workout series for Senior Citizens. S01 E698.",
             "seriesId": "ACTFITTCwEMfS",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65442604181800",
             "catchup": true
           },
@@ -1199,7 +1199,7 @@
             "title": "Tai Chi with Edwin Moses for Seniors",
             "desc": "Maintain your body balance and live stress-free with our Yoga and Workout series for Senior Citizens. S01 E698.",
             "seriesId": "ACTFITTCwEMfS",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65442604181830",
             "catchup": true
           },
@@ -1210,7 +1210,7 @@
             "title": "Live Class",
             "desc": "Live sessions with the best trainers only on Tata Play Fitness. S01 E700.",
             "seriesId": "ACTFITLive Class",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65442604181900",
             "catchup": true
           },
@@ -1221,7 +1221,7 @@
             "title": "Live Class",
             "desc": "Live sessions with the best trainers only on Tata Play Fitness. S01 E823.",
             "seriesId": "ACTFITLive Class",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65442604181930",
             "catchup": true
           },
@@ -1232,7 +1232,7 @@
             "title": "Fit & Famous - Rajeev Khandelwal",
             "desc": "Indulge in one to one coversation with famous celebrities to know their fitness regime. S01 E414.",
             "seriesId": "ACTFITFFRK",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65442604182000",
             "catchup": true
           },
@@ -1243,7 +1243,7 @@
             "title": "Health & Wellness Podcast",
             "desc": "\"Inspiring conversations and expert tips to help you live a healthier, happier life-one episode at a time.\". S01 E890.",
             "seriesId": "ACTFITHWP",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65442604182030",
             "catchup": true
           },
@@ -1254,7 +1254,7 @@
             "title": "Yoga with Vrinda Sharma",
             "desc": "Tone your body and increase your flexibility with our 30 minute yoga session. S01 E124.",
             "seriesId": "ACTFITYwVS",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65442604182100",
             "catchup": true
           },
@@ -1265,7 +1265,7 @@
             "title": "Workout With Sangram Singh",
             "desc": "A 30 minute workout session is all that is needed to stay fit & in shape. S01 E748.",
             "seriesId": "ACTFITWWSS",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65442604182130",
             "catchup": true
           },
@@ -1276,7 +1276,7 @@
             "title": "Meditation Challenge Anvita Dixit",
             "desc": "30 minute of guided meditation which will help you stay calm, improve focus and sleep well. S01 E10.",
             "seriesId": "ACTFITMCAD",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65442604182200",
             "catchup": true
           },
@@ -1287,7 +1287,7 @@
             "title": "Guided Meditation",
             "desc": "30 minute of guided meditation which will help you stay calm, improve focus and sleep well. S01 E195.",
             "seriesId": "ACTFITGM",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65442604182230",
             "catchup": true
           },
@@ -1298,7 +1298,7 @@
             "title": "Meditation Challenge Anvita Dixit",
             "desc": "30 minute of guided meditation which will help you stay calm, improve focus and sleep well. S01 E10.",
             "seriesId": "ACTFITMCAD",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65442604182300",
             "catchup": true
           },
@@ -1309,7 +1309,7 @@
             "title": "Guided Meditation",
             "desc": "30 minute of guided meditation which will help you stay calm, improve focus and sleep well. S01 E195.",
             "seriesId": "ACTFITGM",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65442604182330",
             "catchup": true
           }
@@ -1630,7 +1630,7 @@
             "title": "Traditional Fabrics In Contemporary Styles",
             "desc": "A complete Fashion & Accessories guide that informs and teaches about the latest trends and styles of the season, & guides you on how to upgrade your style without having to spend much. S01 E02.",
             "seriesId": "TSBTYTFICS",
-            "epgState": "ON_AIR",
+            "epgState": "REVERSE",
             "epgSlotId": "65282604181230",
             "catchup": true
           },
@@ -1641,7 +1641,7 @@
             "title": "Secrets Of Stars - Perfect Body Weight",
             "desc": "Various beauty experts, skin specialists and dermatologists speak about complete skin care, hair care & body care remedies. S01 E03.",
             "seriesId": "TSBTYSOSPBW",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65282604181300",
             "catchup": true
           },
@@ -1652,7 +1652,7 @@
             "title": "Turqoise Green Smokey Eyes Makeup",
             "desc": "A makeup and hairstyle show that focuses on the latest make-up & hair style trends and teaches you how to get the look. S01 E01.",
             "seriesId": "TSBTYTGSEM",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65282604181330",
             "catchup": true
           },
@@ -1663,7 +1663,7 @@
             "title": "Traditional Fabrics In Contemporary Styles",
             "desc": "A complete Fashion & Accessories guide that informs and teaches about the latest trends and styles of the season, & guides you on how to upgrade your style without having to spend much. S01 E02.",
             "seriesId": "TSBTYTFICS",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65282604181400",
             "catchup": true
           },
@@ -1674,7 +1674,7 @@
             "title": "Secrets Of Stars - Perfect Body Weight",
             "desc": "Various beauty experts, skin specialists and dermatologists speak about complete skin care, hair care & body care remedies. S01 E03.",
             "seriesId": "TSBTYSOSPBW",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65282604181430",
             "catchup": true
           },
@@ -1685,7 +1685,7 @@
             "title": "Turqoise Green Smokey Eyes Makeup",
             "desc": "A makeup and hairstyle show that focuses on the latest make-up & hair style trends and teaches you how to get the look. S01 E01.",
             "seriesId": "TSBTYTGSEM",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65282604181500",
             "catchup": true
           },
@@ -1696,7 +1696,7 @@
             "title": "Traditional Fabrics In Contemporary Styles",
             "desc": "A complete Fashion & Accessories guide that informs and teaches about the latest trends and styles of the season, & guides you on how to upgrade your style without having to spend much. S01 E02.",
             "seriesId": "TSBTYTFICS",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65282604181530",
             "catchup": true
           },
@@ -1707,7 +1707,7 @@
             "title": "Secrets Of Stars - Perfect Body Weight",
             "desc": "Various beauty experts, skin specialists and dermatologists speak about complete skin care, hair care & body care remedies. S01 E03.",
             "seriesId": "TSBTYSOSPBW",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65282604181600",
             "catchup": true
           },
@@ -1718,7 +1718,7 @@
             "title": "Turqoise Green Smokey Eyes Makeup",
             "desc": "A makeup and hairstyle show that focuses on the latest make-up & hair style trends and teaches you how to get the look. S01 E01.",
             "seriesId": "TSBTYTGSEM",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65282604181630",
             "catchup": true
           },
@@ -1729,7 +1729,7 @@
             "title": "Traditional Fabrics In Contemporary Styles",
             "desc": "A complete Fashion & Accessories guide that informs and teaches about the latest trends and styles of the season, & guides you on how to upgrade your style without having to spend much. S01 E02.",
             "seriesId": "TSBTYTFICS",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65282604181700",
             "catchup": true
           },
@@ -1740,7 +1740,7 @@
             "title": "Secrets Of Stars - Perfect Body Weight",
             "desc": "Various beauty experts, skin specialists and dermatologists speak about complete skin care, hair care & body care remedies. S01 E03.",
             "seriesId": "TSBTYSOSPBW",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65282604181730",
             "catchup": true
           },
@@ -1751,7 +1751,7 @@
             "title": "Turqoise Green Smokey Eyes Makeup",
             "desc": "A makeup and hairstyle show that focuses on the latest make-up & hair style trends and teaches you how to get the look. S01 E01.",
             "seriesId": "TSBTYTGSEM",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65282604181800",
             "catchup": true
           },
@@ -1762,7 +1762,7 @@
             "title": "Traditional Fabrics In Contemporary Styles",
             "desc": "A complete Fashion & Accessories guide that informs and teaches about the latest trends and styles of the season, & guides you on how to upgrade your style without having to spend much. S01 E02.",
             "seriesId": "TSBTYTFICS",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65282604181830",
             "catchup": true
           },
@@ -1773,7 +1773,7 @@
             "title": "Secrets Of Stars - Perfect Body Weight",
             "desc": "Various beauty experts, skin specialists and dermatologists speak about complete skin care, hair care & body care remedies. S01 E03.",
             "seriesId": "TSBTYSOSPBW",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65282604181900",
             "catchup": true
           },
@@ -1784,7 +1784,7 @@
             "title": "Turqoise Green Smokey Eyes Makeup",
             "desc": "A makeup and hairstyle show that focuses on the latest make-up & hair style trends and teaches you how to get the look. S01 E01.",
             "seriesId": "TSBTYTGSEM",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65282604181930",
             "catchup": true
           },
@@ -1795,7 +1795,7 @@
             "title": "Traditional Fabrics In Contemporary Styles",
             "desc": "A complete Fashion & Accessories guide that informs and teaches about the latest trends and styles of the season, & guides you on how to upgrade your style without having to spend much. S01 E02.",
             "seriesId": "TSBTYTFICS",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65282604182000",
             "catchup": true
           },
@@ -1806,7 +1806,7 @@
             "title": "Secrets Of Stars - Perfect Body Weight",
             "desc": "Various beauty experts, skin specialists and dermatologists speak about complete skin care, hair care & body care remedies. S01 E03.",
             "seriesId": "TSBTYSOSPBW",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65282604182030",
             "catchup": true
           },
@@ -1817,7 +1817,7 @@
             "title": "Turqoise Green Smokey Eyes Makeup",
             "desc": "A makeup and hairstyle show that focuses on the latest make-up & hair style trends and teaches you how to get the look. S01 E01.",
             "seriesId": "TSBTYTGSEM",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65282604182100",
             "catchup": true
           },
@@ -1828,7 +1828,7 @@
             "title": "Traditional Fabrics In Contemporary Styles",
             "desc": "A complete Fashion & Accessories guide that informs and teaches about the latest trends and styles of the season, & guides you on how to upgrade your style without having to spend much. S01 E02.",
             "seriesId": "TSBTYTFICS",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65282604182130",
             "catchup": true
           },
@@ -1839,7 +1839,7 @@
             "title": "Secrets Of Stars - Perfect Body Weight",
             "desc": "Various beauty experts, skin specialists and dermatologists speak about complete skin care, hair care & body care remedies. S01 E03.",
             "seriesId": "TSBTYSOSPBW",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65282604182200",
             "catchup": true
           },
@@ -1850,7 +1850,7 @@
             "title": "Turqoise Green Smokey Eyes Makeup",
             "desc": "A makeup and hairstyle show that focuses on the latest make-up & hair style trends and teaches you how to get the look. S01 E01.",
             "seriesId": "TSBTYTGSEM",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65282604182230",
             "catchup": true
           },
@@ -1861,7 +1861,7 @@
             "title": "Traditional Fabrics In Contemporary Styles",
             "desc": "A complete Fashion & Accessories guide that informs and teaches about the latest trends and styles of the season, & guides you on how to upgrade your style without having to spend much. S01 E02.",
             "seriesId": "TSBTYTFICS",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65282604182300",
             "catchup": true
           },
@@ -1872,7 +1872,7 @@
             "title": "Secrets Of Stars - Perfect Body Weight",
             "desc": "Various beauty experts, skin specialists and dermatologists speak about complete skin care, hair care & body care remedies. S01 E03.",
             "seriesId": "TSBTYSOSPBW",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65282604182330",
             "catchup": true
           }
@@ -2187,13 +2187,24 @@
             "catchup": true
           },
           {
+            "id": 93548375,
+            "startTime": 1776493800000,
+            "endTime": 1776495600000,
+            "title": "Jhatpat Recipes",
+            "desc": "Food cravings and running out of time? Then this is just the right place for you, learn some tasty & quick to make recipes that you can savour upon. S01 E36.",
+            "seriesId": "TSCOOKJR",
+            "epgState": "REVERSE",
+            "epgSlotId": "65382604181200",
+            "catchup": true
+          },
+          {
             "id": 93548371,
             "startTime": 1776495600000,
             "endTime": 1776497400000,
             "title": "Street Food",
             "desc": "Learn some delicious & mouth-watering recipes of street foods found in India. S01 E32.",
             "seriesId": "TSCOOKStreet Food",
-            "epgState": "ON_AIR",
+            "epgState": "REVERSE",
             "epgSlotId": "65382604181230",
             "catchup": true
           },
@@ -2204,7 +2215,7 @@
             "title": "Indian Food Classic",
             "desc": "Create your favourite Indian classic foods at home in just no time. S01 E33.",
             "seriesId": "TSCOOKIFC",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65382604181300",
             "catchup": true
           },
@@ -2215,7 +2226,7 @@
             "title": "International Gully",
             "desc": "Learn some delicious & mouth-watering recipes from around the world. S01 E34.",
             "seriesId": "TSCOOKIG",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65382604181330",
             "catchup": true
           },
@@ -2226,7 +2237,7 @@
             "title": "Regional Cuisine",
             "desc": "Learn authentic recipes that are prepared in various regions of India. S01 E35.",
             "seriesId": "TSCOOKRC",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65382604181400",
             "catchup": true
           },
@@ -2237,7 +2248,7 @@
             "title": "Jhatpat Recipes",
             "desc": "Food cravings and running out of time? Then this is just the right place for you, learn some tasty & quick to make recipes that you can savour upon. S01 E36.",
             "seriesId": "TSCOOKJR",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65382604181430",
             "catchup": true
           },
@@ -2248,7 +2259,7 @@
             "title": "Street Food",
             "desc": "Learn some delicious & mouth-watering recipes of street foods found in India. S01 E32.",
             "seriesId": "TSCOOKStreet Food",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65382604181500",
             "catchup": true
           },
@@ -2259,7 +2270,7 @@
             "title": "Indian Food Classic",
             "desc": "Create your favourite Indian classic foods at home in just no time. S01 E33.",
             "seriesId": "TSCOOKIFC",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65382604181530",
             "catchup": true
           },
@@ -2270,7 +2281,7 @@
             "title": "International Gully",
             "desc": "Learn some delicious & mouth-watering recipes from around the world. S01 E34.",
             "seriesId": "TSCOOKIG",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65382604181600",
             "catchup": true
           },
@@ -2281,7 +2292,7 @@
             "title": "Regional Cuisine",
             "desc": "Learn authentic recipes that are prepared in various regions of India. S01 E35.",
             "seriesId": "TSCOOKRC",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65382604181630",
             "catchup": true
           },
@@ -2292,7 +2303,7 @@
             "title": "Jhatpat Recipes",
             "desc": "Food cravings and running out of time? Then this is just the right place for you, learn some tasty & quick to make recipes that you can savour upon. S01 E36.",
             "seriesId": "TSCOOKJR",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65382604181700",
             "catchup": true
           },
@@ -2303,7 +2314,7 @@
             "title": "Street Food",
             "desc": "Learn some delicious & mouth-watering recipes of street foods found in India. S01 E32.",
             "seriesId": "TSCOOKStreet Food",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65382604181730",
             "catchup": true
           },
@@ -2314,7 +2325,7 @@
             "title": "Indian Food Classic",
             "desc": "Create your favourite Indian classic foods at home in just no time. S01 E33.",
             "seriesId": "TSCOOKIFC",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65382604181800",
             "catchup": true
           },
@@ -2325,7 +2336,7 @@
             "title": "International Gully",
             "desc": "Learn some delicious & mouth-watering recipes from around the world. S01 E34.",
             "seriesId": "TSCOOKIG",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65382604181830",
             "catchup": true
           },
@@ -2336,7 +2347,7 @@
             "title": "Regional Cuisine",
             "desc": "Learn authentic recipes that are prepared in various regions of India. S01 E35.",
             "seriesId": "TSCOOKRC",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65382604181900",
             "catchup": true
           },
@@ -2347,7 +2358,7 @@
             "title": "Jhatpat Recipes",
             "desc": "Food cravings and running out of time? Then this is just the right place for you, learn some tasty & quick to make recipes that you can savour upon. S01 E36.",
             "seriesId": "TSCOOKJR",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65382604181930",
             "catchup": true
           },
@@ -2358,7 +2369,7 @@
             "title": "Street Food",
             "desc": "Learn some delicious & mouth-watering recipes of street foods found in India. S01 E32.",
             "seriesId": "TSCOOKStreet Food",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65382604182000",
             "catchup": true
           },
@@ -2369,7 +2380,7 @@
             "title": "Indian Food Classic",
             "desc": "Create your favourite Indian classic foods at home in just no time. S01 E33.",
             "seriesId": "TSCOOKIFC",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65382604182030",
             "catchup": true
           },
@@ -2380,7 +2391,7 @@
             "title": "International Gully",
             "desc": "Learn some delicious & mouth-watering recipes from around the world. S01 E34.",
             "seriesId": "TSCOOKIG",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65382604182100",
             "catchup": true
           },
@@ -2391,7 +2402,7 @@
             "title": "Regional Cuisine",
             "desc": "Learn authentic recipes that are prepared in various regions of India. S01 E35.",
             "seriesId": "TSCOOKRC",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65382604182130",
             "catchup": true
           },
@@ -2402,7 +2413,7 @@
             "title": "Jhatpat Recipes",
             "desc": "Food cravings and running out of time? Then this is just the right place for you, learn some tasty & quick to make recipes that you can savour upon. S01 E36.",
             "seriesId": "TSCOOKJR",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65382604182200",
             "catchup": true
           },
@@ -2413,7 +2424,7 @@
             "title": "Street Food",
             "desc": "Learn some delicious & mouth-watering recipes of street foods found in India. S01 E32.",
             "seriesId": "TSCOOKStreet Food",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65382604182230",
             "catchup": true
           },
@@ -2424,7 +2435,7 @@
             "title": "Indian Food Classic",
             "desc": "Create your favourite Indian classic foods at home in just no time. S01 E33.",
             "seriesId": "TSCOOKIFC",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65382604182300",
             "catchup": true
           },
@@ -2435,7 +2446,7 @@
             "title": "International Gully",
             "desc": "Learn some delicious & mouth-watering recipes from around the world. S01 E34.",
             "seriesId": "TSCOOKIG",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65382604182330",
             "catchup": true
           }
@@ -2668,7 +2679,7 @@
             "title": "The Mindy Project",
             "desc": "Mindy, a gynecologist, tries to balance her professional and personal life. S02 E20.",
             "seriesId": "TASKROTMP",
-            "epgState": "ON_AIR",
+            "epgState": "REVERSE",
             "epgSlotId": "65612604181230",
             "catchup": false
           },
@@ -2679,7 +2690,7 @@
             "title": "If Beale Street Could Talk",
             "desc": "A pregnant woman tries to prove the innocence of her lover in a case of rape.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65612604181300",
             "catchup": false
           },
@@ -2690,7 +2701,7 @@
             "title": "The Mindy Project",
             "desc": "Mindy, a gynecologist, tries to balance her professional and personal life. S02 E17.",
             "seriesId": "TASKROTMP",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65612604181530",
             "catchup": false
           },
@@ -2701,7 +2712,7 @@
             "title": "Pashminna",
             "desc": "A romantic falls for a pragmatic businessman, leading to events of love and anguish. S01 E37.",
             "seriesId": "TASKROPashminna",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65612604181600",
             "catchup": false
           },
@@ -2712,7 +2723,7 @@
             "title": "Pashminna",
             "desc": "A romantic falls for a pragmatic businessman, leading to events of love and anguish. S01 E38.",
             "seriesId": "TASKROPashminna",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65612604181625",
             "catchup": false
           },
@@ -2723,7 +2734,7 @@
             "title": "Pashminna",
             "desc": "A romantic falls for a pragmatic businessman, leading to events of love and anguish. S01 E39.",
             "seriesId": "TASKROPashminna",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65612604181650",
             "catchup": false
           },
@@ -2734,7 +2745,7 @@
             "title": "Pashminna",
             "desc": "A romantic falls for a pragmatic businessman, leading to events of love and anguish. S01 E40.",
             "seriesId": "TASKROPashminna",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65612604181715",
             "catchup": false
           },
@@ -2745,7 +2756,7 @@
             "title": "Pashminna",
             "desc": "A romantic falls for a pragmatic businessman, leading to events of love and anguish. S01 E41.",
             "seriesId": "TASKROPashminna",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65612604181740",
             "catchup": false
           },
@@ -2756,7 +2767,7 @@
             "title": "Pashminna",
             "desc": "A romantic falls for a pragmatic businessman, leading to events of love and anguish. S01 E42.",
             "seriesId": "TASKROPashminna",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65612604181805",
             "catchup": false
           },
@@ -2767,7 +2778,7 @@
             "title": "True Love",
             "desc": "An anthology of five improvised love stories exploring romance in modern times. S01 E01.",
             "seriesId": "TASKROTrue Love",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65612604181830",
             "catchup": false
           },
@@ -2778,7 +2789,7 @@
             "title": "True Love",
             "desc": "An anthology of five improvised love stories exploring romance in modern times. S02 E01.",
             "seriesId": "TASKROTrue Love",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65612604181900",
             "catchup": false
           },
@@ -2789,7 +2800,7 @@
             "title": "True Love",
             "desc": "An anthology of five improvised love stories exploring romance in modern times. S03 E01.",
             "seriesId": "TASKROTrue Love",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65612604181930",
             "catchup": false
           },
@@ -2800,7 +2811,7 @@
             "title": "Letters to Juliet",
             "desc": "Sophie, an aspiring writer, joins Claire in her quest to find her long-lost love.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65612604182000",
             "catchup": false
           },
@@ -2811,7 +2822,7 @@
             "title": "The Bold and The Beautiful",
             "desc": "The members of the Forrester family face hardships while ruling the fashion industry. S32 E47.",
             "seriesId": "TASKROTBaTB",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65612604182230",
             "catchup": false
           },
@@ -2822,7 +2833,7 @@
             "title": "The Bold and The Beautiful",
             "desc": "The members of the Forrester family face hardships while ruling the fashion industry. S32 E48.",
             "seriesId": "TASKROTBaTB",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65612604182300",
             "catchup": false
           },
@@ -2833,7 +2844,7 @@
             "title": "The Bold and The Beautiful",
             "desc": "EP 49 Set in the glamorous world of the Los Angeles fashion scene, this soap opera focuses on the wealthy and powerful Forrester family. S32 E49.",
             "seriesId": "TASKROTBaTB",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65612604182330",
             "catchup": false
           }
@@ -3071,7 +3082,7 @@
             "title": "Yeh Rishta Kya Kehlata Hai",
             "desc": "While Dr Abhimanyu gets attracted to Akshara, Arohi begins to fall in love with him. S01 E132.",
             "seriesId": "STPLYRKKH",
-            "epgState": "ON_AIR",
+            "epgState": "REVERSE",
             "epgSlotId": "59222604181115",
             "catchup": false
           },
@@ -3082,7 +3093,7 @@
             "title": "Yeh Rishta Kya Kehlata Hai",
             "desc": "While Dr Abhimanyu gets attracted to Akshara, Arohi begins to fall in love with him. S01 E132.",
             "seriesId": "STPLYRKKH",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59222604181415",
             "catchup": false
           },
@@ -3093,7 +3104,7 @@
             "title": "Yeh Rishta Kya Kehlata Hai",
             "desc": "While Dr Abhimanyu gets attracted to Akshara, Arohi begins to fall in love with him. S01 E132.",
             "seriesId": "STPLYRKKH",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59222604181645",
             "catchup": false
           },
@@ -3104,7 +3115,7 @@
             "title": "Tod Kar Dil Mera",
             "desc": "Raushni supports her husband's ambitions, but will a betrayal alter her life?. S01 E89.",
             "seriesId": "STPLTKDM",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59222604181900",
             "catchup": false
           },
@@ -3115,7 +3126,7 @@
             "title": "Taara",
             "desc": "Taara and Yuvraaj must confront relentless opposition to keep their love alive. S01 E39.",
             "seriesId": "STPLTaara",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59222604181930",
             "catchup": false
           },
@@ -3126,7 +3137,7 @@
             "title": "Advocate Anjali Awasthi",
             "desc": "Lawyer Anjali Awasthi takes on a challenging case that could help her achieve recognition. S01 E612.",
             "seriesId": "STPLAAA",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59222604182000",
             "catchup": false
           },
@@ -3137,7 +3148,7 @@
             "title": "Mr & Mrs Parshuram",
             "desc": "Shivprasad juggles life as a doting family man and a fearless undercover spy. S01 E74.",
             "seriesId": "STPLMMP",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59222604182030",
             "catchup": false
           },
@@ -3148,7 +3159,7 @@
             "title": "Udne Ki Aasha",
             "desc": "An aspirational Saili tries to turn her unmotivated husband into a competent person. S01 E766.",
             "seriesId": "STPLUdne Ki Aasha",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59222604182100",
             "catchup": false
           },
@@ -3159,7 +3170,7 @@
             "title": "Yeh Rishta Kya Kehlata Hai",
             "desc": "While Dr Abhimanyu gets attracted to Akshara, Arohi begins to fall in love with him. S01 E5136.",
             "seriesId": "STPLYRKKH",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59222604182130",
             "catchup": false
           },
@@ -3170,7 +3181,7 @@
             "title": "Anupamaa",
             "desc": "Anupamaa feels unappreciated by her family and sets out to live life on her own terms. S01 E1991.",
             "seriesId": "STPLAnupamaa",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59222604182200",
             "catchup": false
           },
@@ -3181,7 +3192,7 @@
             "title": "Kyunki Saas Bhi Kabhi Bahu Thi",
             "desc": "Tulsi and Mihir Virani guide their family which has endured a lengthy passage of time. S02 E264.",
             "seriesId": "STPLKSBKBT",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59222604182230",
             "catchup": false
           },
@@ -3192,7 +3203,7 @@
             "title": "Jhanak",
             "desc": "Jhanak faces obstacles and unexpected danger in her efforts to become a dancer. S01 E880.",
             "seriesId": "STPLJhanak",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59222604182330",
             "catchup": false
           }
@@ -3263,6 +3274,17 @@
             "catchup": false
           },
           {
+            "id": 93568736,
+            "startTime": 1776461400000,
+            "endTime": 1776465000000,
+            "title": "Kahiin To Hoga",
+            "desc": "Kashish tries to keep her father away from knowing about Meher's pregnancy. S01 E09.",
+            "seriesId": "TPSUPSKTH",
+            "epgState": "REVERSE",
+            "epgSlotId": "69272604180300",
+            "catchup": false
+          },
+          {
             "id": 93568742,
             "startTime": 1776465000000,
             "endTime": 1776468600000,
@@ -3282,6 +3304,28 @@
             "seriesId": "TPSUPSKZK",
             "epgState": "REVERSE",
             "epgSlotId": "69272604180500",
+            "catchup": false
+          },
+          {
+            "id": 93568735,
+            "startTime": 1776472200000,
+            "endTime": 1776475800000,
+            "title": "Devon Ka Dev Mahadev",
+            "desc": "He is the supreme being and the destroyer of evil. Witness the story of Lord Shiva, his avatars, and his union with Shakti that shaped the universe. S01 E12.",
+            "seriesId": "TPSUPSDKDM",
+            "epgState": "REVERSE",
+            "epgSlotId": "69272604180600",
+            "catchup": false
+          },
+          {
+            "id": 93568735,
+            "startTime": 1776472200000,
+            "endTime": 1776475800000,
+            "title": "Devon Ka Dev Mahadev",
+            "desc": "He is the supreme being and the destroyer of evil. Witness the story of Lord Shiva, his avatars, and his union with Shakti that shaped the universe. S01 E12.",
+            "seriesId": "TPSUPSDKDM",
+            "epgState": "REVERSE",
+            "epgSlotId": "69272604180600",
             "catchup": false
           },
           {
@@ -3313,7 +3357,7 @@
             "title": "Kahiin To Hoga",
             "desc": "Kashish tries to keep her father away from knowing about Meher's pregnancy. S01 E09.",
             "seriesId": "TPSUPSKTH",
-            "epgState": "ON_AIR",
+            "epgState": "REVERSE",
             "epgSlotId": "69272604180900",
             "catchup": false
           },
@@ -3324,7 +3368,7 @@
             "title": "Baa Bahoo Aur Baby",
             "desc": "Baby feels insecure when she sees Dimple and Anish together. S01 E11.",
             "seriesId": "TPSUPSBBAB",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "69272604181400",
             "catchup": false
           },
@@ -3335,7 +3379,7 @@
             "title": "Maha Episode - Kahani Ghar Ghar Ki",
             "desc": "Parvati, along with her husband Om Aggarwal, navigates through challenges of life. S01 E05.",
             "seriesId": "TPSUPSMEKGGK",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "69272604181500",
             "catchup": false
           },
@@ -3346,7 +3390,7 @@
             "title": "Baa Bahoo Aur Baby",
             "desc": "Baby feels insecure when she sees Dimple and Anish together. S01 E11.",
             "seriesId": "TPSUPSBBAB",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "69272604182000",
             "catchup": false
           },
@@ -3357,7 +3401,7 @@
             "title": "Maha Episode - Devon Ka Dev Mahadev",
             "desc": "He is the supreme being and the destroyer of evil. Witness the story of Lord Shiva, his avatars, and his union with Shakti that shaped the universe. S01 E12.",
             "seriesId": "TPSUPSMEDKDM",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "69272604182100",
             "catchup": false
           }
@@ -3462,7 +3506,7 @@
             "startTime": 1776463200000,
             "endTime": 1776465000000,
             "title": "Kaccha Papad Pakka Papad",
-            "desc": ".",
+            "desc": "A quirky family and community navigate everyday life, with humorous twists and mixed outcomes.",
             "seriesId": "",
             "epgState": "REVERSE",
             "epgSlotId": "64302604180330",
@@ -3515,45 +3559,45 @@
           {
             "id": 93566551,
             "startTime": 1776475800000,
-            "endTime": 1776479400000,
-            "title": "Savdhaan India: Rewind",
-            "desc": "Featuring dramatised crimes that have appeared in previous episodes of 'Savdhaan India'. S01 E14.",
-            "seriesId": "STBHASIR",
+            "endTime": 1776476400000,
+            "title": "Star Bharat Insta Katha",
+            "desc": ". S01 E05.",
+            "seriesId": "STBHASBIK",
             "epgState": "REVERSE",
             "epgSlotId": "64302604180700",
             "catchup": false
           },
           {
-            "id": 93566554,
-            "startTime": 1776479400000,
-            "endTime": 1776483000000,
-            "title": "Savdhaan India: Rewind",
-            "desc": "Featuring dramatised crimes that have appeared in previous episodes of 'Savdhaan India'. S01 E14.",
-            "seriesId": "STBHASIR",
+            "id": 93733770,
+            "startTime": 1776476400000,
+            "endTime": 1776477000000,
+            "title": "Star Bharat Insta Katha",
+            "desc": ". S01 E13.",
+            "seriesId": "STBHASBIK",
             "epgState": "REVERSE",
-            "epgSlotId": "64302604180800",
+            "epgSlotId": "64302604180710",
             "catchup": false
           },
           {
-            "id": 93566533,
-            "startTime": 1776483000000,
-            "endTime": 1776486600000,
-            "title": "Savdhaan India: Rewind",
-            "desc": "Featuring dramatised crimes that have appeared in previous episodes of 'Savdhaan India'. S01 E14.",
-            "seriesId": "STBHASIR",
+            "id": 93733771,
+            "startTime": 1776477000000,
+            "endTime": 1776477600000,
+            "title": "Star Bharat Insta Katha",
+            "desc": ". S01 E15.",
+            "seriesId": "STBHASBIK",
             "epgState": "REVERSE",
-            "epgSlotId": "64302604180900",
+            "epgSlotId": "64302604180720",
             "catchup": false
           },
           {
-            "id": 93566540,
-            "startTime": 1776486600000,
+            "id": 93733773,
+            "startTime": 1776477600000,
             "endTime": 1776490200000,
-            "title": "Savdhaan India: Rewind",
-            "desc": "Featuring dramatised crimes that have appeared in previous episodes of 'Savdhaan India'. S01 E14.",
-            "seriesId": "STBHASIR",
+            "title": "Prem Ki Paribhasha - Radha Krishna",
+            "desc": "Krishna, the eighth avatar of Vishnu, educates his followers on various topics.",
+            "seriesId": "",
             "epgState": "REVERSE",
-            "epgSlotId": "64302604181000",
+            "epgSlotId": "64302604180730",
             "catchup": false
           },
           {
@@ -3570,56 +3614,67 @@
           {
             "id": 93566544,
             "startTime": 1776493800000,
+            "endTime": 1776495600000,
+            "title": "Savdhaan India: Rewind",
+            "desc": "Featuring dramatised crimes that have appeared in previous episodes of 'Savdhaan India'. S01 E2061.",
+            "seriesId": "STBHASIR",
+            "epgState": "REVERSE",
+            "epgSlotId": "64302604181200",
+            "catchup": false
+          },
+          {
+            "id": 93733774,
+            "startTime": 1776495600000,
             "endTime": 1776497400000,
             "title": "Savdhaan India: Rewind",
-            "desc": "Featuring dramatised crimes that have appeared in previous episodes of 'Savdhaan India'. S01 E14.",
+            "desc": "Featuring dramatised crimes that have appeared in previous episodes of 'Savdhaan India'. S01 E521.",
             "seriesId": "STBHASIR",
-            "epgState": "ON_AIR",
-            "epgSlotId": "64302604181200",
+            "epgState": "REVERSE",
+            "epgSlotId": "64302604181230",
             "catchup": false
           },
           {
             "id": 93566556,
             "startTime": 1776497400000,
-            "endTime": 1776501600000,
+            "endTime": 1776501000000,
             "title": "Savdhaan India: Rewind",
-            "desc": "Featuring dramatised crimes that have appeared in previous episodes of 'Savdhaan India'. S01 E14.",
+            "desc": "Featuring dramatised crimes that have appeared in previous episodes of 'Savdhaan India'. S01 E1075.",
             "seriesId": "STBHASIR",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64302604181300",
             "catchup": false
           },
           {
-            "id": 93566552,
-            "startTime": 1776501600000,
-            "endTime": 1776505800000,
+            "id": 93733768,
+            "startTime": 1776501000000,
+            "endTime": 1776504600000,
             "title": "Savdhaan India: Rewind",
-            "desc": "Featuring dramatised crimes that have appeared in previous episodes of 'Savdhaan India'. S01 E14.",
+            "desc": "Featuring dramatised crimes that have appeared in previous episodes of 'Savdhaan India'. S01 E239.",
             "seriesId": "STBHASIR",
-            "epgState": "FORWARD",
-            "epgSlotId": "64302604181410",
+            "epgState": "REVERSE",
+            "epgSlotId": "64302604181400",
             "catchup": false
           },
           {
-            "id": 93566549,
-            "startTime": 1776505800000,
-            "endTime": 1776510300000,
+            "id": 93733769,
+            "startTime": 1776504600000,
+            "endTime": 1776508200000,
             "title": "Savdhaan India: Rewind",
-            "desc": "Featuring dramatised crimes that have appeared in previous episodes of 'Savdhaan India'. S01 E14.",
+            "desc": "Featuring dramatised crimes that have appeared in previous episodes of 'Savdhaan India'. S01 E1850.",
             "seriesId": "STBHASIR",
-            "epgState": "FORWARD",
-            "epgSlotId": "64302604181520",
+            "epgState": "REVERSE",
+            "epgSlotId": "64302604181500",
             "catchup": false
           },
           {
-            "id": 93566548,
-            "startTime": 1776510300000,
+            "id": 93733772,
+            "startTime": 1776508200000,
             "endTime": 1776511800000,
             "title": "Savdhaan India: Rewind",
-            "desc": "Featuring dramatised crimes that have appeared in previous episodes of 'Savdhaan India'. S01 E14.",
+            "desc": "Featuring dramatised crimes that have appeared in previous episodes of 'Savdhaan India'. S01 E329.",
             "seriesId": "STBHASIR",
-            "epgState": "FORWARD",
-            "epgSlotId": "64302604181635",
+            "epgState": "REVERSE",
+            "epgSlotId": "64302604181600",
             "catchup": false
           },
           {
@@ -3629,7 +3684,7 @@
             "title": "Paapnaashini Ganga",
             "desc": "King Himavan's caravan encounters a dangerous demon that turns their food to ash.",
             "seriesId": "STBHAPG",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64302604181700",
             "catchup": false
           },
@@ -3640,7 +3695,7 @@
             "title": "Paapnaashini Ganga",
             "desc": "Himavan leads a group to hunt Bhedasur. Ganga secretly enters the forest with her friends.",
             "seriesId": "STBHAPG",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64302604181730",
             "catchup": false
           },
@@ -3651,7 +3706,7 @@
             "title": "Paapnaashini Ganga",
             "desc": "Bhedasur falls for Ganga's food trap but successfully evades Himavan's soldiers.",
             "seriesId": "STBHAPG",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64302604181800",
             "catchup": false
           },
@@ -3662,7 +3717,7 @@
             "title": "Paapnaashini Ganga",
             "desc": "Daksh warmly welcomes Himavan. Ganga and Nandi explore the kingdom to find Mahadev.",
             "seriesId": "STBHAPG",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64302604181830",
             "catchup": false
           },
@@ -3673,7 +3728,7 @@
             "title": "Paapnaashini Ganga",
             "desc": "Ganga asks Maharani Prasuti why Kankhal's residents seem afraid to speak about Mahadev.",
             "seriesId": "STBHAPG",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64302604181900",
             "catchup": false
           },
@@ -3684,7 +3739,7 @@
             "title": "Mahabharat",
             "desc": "When differences between the Kaurava and the Pandava clans lead them to the threshold of war. S01 E25.",
             "seriesId": "STBHAMahabharat",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64302604181930",
             "catchup": false
           },
@@ -3695,7 +3750,7 @@
             "title": "Mahabharat",
             "desc": "When differences between the Kaurava and the Pandava clans lead them to the threshold of war. S01 E26.",
             "seriesId": "STBHAMahabharat",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64302604182000",
             "catchup": false
           },
@@ -3706,7 +3761,7 @@
             "title": "Mahabharat",
             "desc": "When differences between the Kaurava and the Pandava clans lead them to the threshold of war. S01 E27.",
             "seriesId": "STBHAMahabharat",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64302604182030",
             "catchup": false
           },
@@ -3717,7 +3772,7 @@
             "title": "Mahabharat",
             "desc": "When differences between the Kaurava and the Pandava clans lead them to the threshold of war. S01 E28.",
             "seriesId": "STBHAMahabharat",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64302604182100",
             "catchup": false
           },
@@ -3728,30 +3783,30 @@
             "title": "Mahabharat",
             "desc": "When differences between the Kaurava and the Pandava clans lead them to the threshold of war. S01 E29.",
             "seriesId": "STBHAMahabharat",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64302604182130",
             "catchup": false
           },
           {
             "id": 93566537,
             "startTime": 1776529800000,
-            "endTime": 1776534300000,
+            "endTime": 1776533400000,
             "title": "Savdhaan India: Rewind",
-            "desc": "Featuring dramatised crimes that have appeared in previous episodes of 'Savdhaan India'. S01 E14.",
+            "desc": "Featuring dramatised crimes that have appeared in previous episodes of 'Savdhaan India'. S01 E305.",
             "seriesId": "STBHASIR",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64302604182200",
             "catchup": false
           },
           {
-            "id": 93566529,
-            "startTime": 1776534300000,
-            "endTime": 1776544200000,
+            "id": 93733775,
+            "startTime": 1776533400000,
+            "endTime": 1776537000000,
             "title": "Savdhaan India: Rewind",
-            "desc": "Featuring dramatised crimes that have appeared in previous episodes of 'Savdhaan India'. S01 E14.",
+            "desc": "Featuring dramatised crimes that have appeared in previous episodes of 'Savdhaan India'. S01 E261.",
             "seriesId": "STBHASIR",
-            "epgState": "FORWARD",
-            "epgSlotId": "64302604182315",
+            "epgState": "REVERSE",
+            "epgSlotId": "64302604182300",
             "catchup": false
           }
         ],
@@ -4007,7 +4062,7 @@
             "title": "Best of Crime Patrol",
             "desc": "A compilation of the best cases from 'Crime Patrol' showcases the vices of various people.",
             "seriesId": "SOHDBoCP",
-            "epgState": "ON_AIR",
+            "epgState": "REVERSE",
             "epgSlotId": "63902604181200",
             "catchup": false
           },
@@ -4018,7 +4073,7 @@
             "title": "Best of Crime Patrol",
             "desc": "Some of the best cases of 'Crime Patrol', which investigates criminal activities.",
             "seriesId": "SOHDBoCP",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "63902604181300",
             "catchup": false
           },
@@ -4029,7 +4084,7 @@
             "title": "Best of Crime Patrol",
             "desc": "In today's episode of Crime Patrol, watch the investigation of a triple murder case from Maharashtra. The police find Rajaram Shinde's dead body near a village.",
             "seriesId": "SOHDBoCP",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "63902604181400",
             "catchup": false
           },
@@ -4040,7 +4095,7 @@
             "title": "Best of Crime Patrol",
             "desc": "A compilation of the best cases from 'Crime Patrol' showcases the vices of various people.",
             "seriesId": "SOHDBoCP",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "63902604181540",
             "catchup": false
           },
@@ -4051,7 +4106,7 @@
             "title": "Best of Crime Patrol",
             "desc": "Some of the best cases of 'Crime Patrol', which investigates criminal activities.",
             "seriesId": "SOHDBoCP",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "63902604181700",
             "catchup": false
           },
@@ -4062,7 +4117,7 @@
             "title": "Best of Crime Patrol - Crime Patrol Satark",
             "desc": "A compilation of some of the most spine-chilling cases from 'Crime Patrol'. S01 E304.",
             "seriesId": "SOHDBoCPCPS",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "63902604181730",
             "catchup": false
           },
@@ -4073,7 +4128,7 @@
             "title": "Indian Idol",
             "desc": "Various talented participants from India showcase their singing skills to win the title. S16 E52.",
             "seriesId": "SOHDIndian Idol",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "63902604181830",
             "catchup": false
           },
@@ -4084,7 +4139,7 @@
             "title": "Indian Idol",
             "desc": "Various talented participants from India showcase their singing skills to win the title. S16 E53.",
             "seriesId": "SOHDIndian Idol",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "63902604182000",
             "catchup": false
           },
@@ -4095,7 +4150,7 @@
             "title": "India's Best Dancer",
             "desc": "India's Best Dancer is back with its second instalment and is finding the 'Best Ka Next Avatar' with the best judges, Terence Lewis, Geeta Kapur and Malaika Arora. S02 E01.",
             "seriesId": "SOHDIBD",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "63902604182100",
             "catchup": false
           },
@@ -4106,7 +4161,7 @@
             "title": "Best of Crime Patrol",
             "desc": "A compilation of the best cases from 'Crime Patrol' showcases the vices of various people.",
             "seriesId": "SOHDBoCP",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "63902604182300",
             "catchup": false
           }
@@ -4367,7 +4422,7 @@
             "title": "Best of Crime Patrol",
             "desc": "A compilation of the best cases from 'Crime Patrol' showcases the vices of various people.",
             "seriesId": "SNYBoCP",
-            "epgState": "ON_AIR",
+            "epgState": "REVERSE",
             "epgSlotId": "63892604181200",
             "catchup": false
           },
@@ -4378,7 +4433,7 @@
             "title": "Best of Crime Patrol",
             "desc": "Some of the best cases of 'Crime Patrol', which investigates criminal activities.",
             "seriesId": "SNYBoCP",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "63892604181300",
             "catchup": false
           },
@@ -4389,7 +4444,7 @@
             "title": "Best of Crime Patrol",
             "desc": "In today's episode of Crime Patrol, watch the investigation of a triple murder case from Maharashtra. The police find Rajaram Shinde's dead body near a village.",
             "seriesId": "SNYBoCP",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "63892604181400",
             "catchup": false
           },
@@ -4400,7 +4455,7 @@
             "title": "Best of Crime Patrol",
             "desc": "A compilation of the best cases from 'Crime Patrol' showcases the vices of various people.",
             "seriesId": "SNYBoCP",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "63892604181540",
             "catchup": false
           },
@@ -4411,7 +4466,7 @@
             "title": "Best of Crime Patrol",
             "desc": "Some of the best cases of 'Crime Patrol', which investigates criminal activities.",
             "seriesId": "SNYBoCP",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "63892604181700",
             "catchup": false
           },
@@ -4422,7 +4477,7 @@
             "title": "Best of Crime Patrol",
             "desc": "A compilation of the best cases from 'Crime Patrol' showcases the vices of various people.",
             "seriesId": "SNYBoCP",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "63892604181730",
             "catchup": false
           },
@@ -4433,7 +4488,7 @@
             "title": "Indian Idol",
             "desc": "Various talented participants from India showcase their singing skills to win the title. S16 E52.",
             "seriesId": "SNYIndian Idol",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "63892604181830",
             "catchup": false
           },
@@ -4444,7 +4499,7 @@
             "title": "Indian Idol",
             "desc": "Various talented participants from India showcase their singing skills to win the title. S16 E53.",
             "seriesId": "SNYIndian Idol",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "63892604182000",
             "catchup": false
           },
@@ -4455,7 +4510,7 @@
             "title": "India's Best Dancer",
             "desc": "India's Best Dancer is back with its second instalment and is finding the 'Best Ka Next Avatar' with the best judges, Terence Lewis, Geeta Kapur and Malaika Arora. S02 E01.",
             "seriesId": "SNYIBD",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "63892604182100",
             "catchup": false
           },
@@ -4466,7 +4521,7 @@
             "title": "Best of Crime Patrol",
             "desc": "A compilation of the best cases from 'Crime Patrol' showcases the vices of various people.",
             "seriesId": "SNYBoCP",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "63892604182300",
             "catchup": false
           }
@@ -4846,7 +4901,7 @@
             "title": "Maddam Sir",
             "desc": "Karishma makes a promise to a lady that she will help her reclaim her job. S01 E227.",
             "seriesId": "SABHDMaddam Sir",
-            "epgState": "ON_AIR",
+            "epgState": "REVERSE",
             "epgSlotId": "64132604181230",
             "catchup": false
           },
@@ -4857,7 +4912,7 @@
             "title": "Maddam Sir",
             "desc": "Fatima realises that she will have to visit Karishma's police station for verification. S01 E228.",
             "seriesId": "SABHDMaddam Sir",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64132604181300",
             "catchup": false
           },
@@ -4868,7 +4923,7 @@
             "title": "Pushpa Impossible",
             "desc": "An uneducated woman starts a business and tries to keep her family happy. S01 E1209.",
             "seriesId": "SABHDPI",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64132604181330",
             "catchup": false
           },
@@ -4879,7 +4934,7 @@
             "title": "Taarak Mehta Ka Ooltah Chashmah",
             "desc": "The residents of a housing society face real-life challenges and find solutions for it. S01 E4687.",
             "seriesId": "SABHDTMKOC",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64132604181400",
             "catchup": false
           },
@@ -4890,7 +4945,7 @@
             "title": "Taarak Mehta Ka Ooltah Chashmah",
             "desc": "When Popatlal proposes marriage to Kaveri, she reveals she is already married. S01 E2051.",
             "seriesId": "SABHDTMKOC",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64132604181430",
             "catchup": false
           },
@@ -4901,7 +4956,7 @@
             "title": "Taarak Mehta Ka Ooltah Chashmah",
             "desc": "Bhide walks around in pain and tells his friends about Dr Hathi's accidental injection. S01 E2050.",
             "seriesId": "SABHDTMKOC",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64132604181500",
             "catchup": false
           },
@@ -4912,7 +4967,7 @@
             "title": "Pushpa Impossible",
             "desc": "An uneducated woman starts a business and tries to keep her family happy. S01 E1209.",
             "seriesId": "SABHDPI",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64132604181530",
             "catchup": false
           },
@@ -4923,7 +4978,7 @@
             "title": "Taarak Mehta Ka Ooltah Chashmah",
             "desc": "The residents of a housing society face real-life challenges and find solutions for it. S01 E4687.",
             "seriesId": "SABHDTMKOC",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64132604181600",
             "catchup": false
           },
@@ -4934,7 +4989,7 @@
             "title": "Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan",
             "desc": "An accident leaves Dr Dev with an eight-year gap in his memory, forcing him to start over. S01 E11.",
             "seriesId": "SABHDHGYEDDZ",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64132604181630",
             "catchup": false
           },
@@ -4945,7 +5000,7 @@
             "title": "Itti Si Khushi",
             "desc": "A woman strives to balance her family responsibilities and emotional turmoils. S01 E209.",
             "seriesId": "SABHDISK",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64132604181700",
             "catchup": false
           },
@@ -4956,7 +5011,7 @@
             "title": "Pushpa Impossible",
             "desc": "An uneducated woman starts a business and tries to keep her family happy. S01 E1209.",
             "seriesId": "SABHDPI",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64132604181730",
             "catchup": false
           },
@@ -4967,7 +5022,7 @@
             "title": "Taarak Mehta Ka Ooltah Chashmah",
             "desc": "Jethalal informs Bapuji that Nattu Kaka and Bagga had planned a surprise for him. S01 E2573.",
             "seriesId": "SABHDTMKOC",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64132604181800",
             "catchup": false
           },
@@ -4978,7 +5033,7 @@
             "title": "Taarak Mehta Ka Ooltah Chashmah",
             "desc": "After the pani puri vendor has an emergency, Jethalal finds himself in trouble. S01 E2574.",
             "seriesId": "SABHDTMKOC",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64132604181830",
             "catchup": false
           },
@@ -4989,7 +5044,7 @@
             "title": "Taarak Mehta Ka Ooltah Chashmah",
             "desc": "After Jethalal has no option, he disguises himself as the pani puri vendor. S01 E2575.",
             "seriesId": "SABHDTMKOC",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64132604181900",
             "catchup": false
           },
@@ -5000,7 +5055,7 @@
             "title": "Taarak Mehta Ka Ooltah Chashmah",
             "desc": "Jethalal gets embarrassed when Iyer and Babita see him selling pani puri. S01 E2576.",
             "seriesId": "SABHDTMKOC",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64132604181930",
             "catchup": false
           },
@@ -5011,7 +5066,7 @@
             "title": "Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan",
             "desc": "An accident leaves Dr Dev with an eight-year gap in his memory, forcing him to start over. S01 E11.",
             "seriesId": "SABHDHGYEDDZ",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64132604182000",
             "catchup": false
           },
@@ -5022,7 +5077,7 @@
             "title": "Taarak Mehta Ka Ooltah Chashmah",
             "desc": "The residents of a housing society face real-life challenges and find solutions for it. S01 E4687.",
             "seriesId": "SABHDTMKOC",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64132604182030",
             "catchup": false
           },
@@ -5033,7 +5088,7 @@
             "title": "Itti Si Khushi",
             "desc": "A woman strives to balance her family responsibilities and emotional turmoils. S01 E209.",
             "seriesId": "SABHDISK",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64132604182100",
             "catchup": false
           },
@@ -5044,7 +5099,7 @@
             "title": "Pushpa Impossible",
             "desc": "An uneducated woman starts a business and tries to keep her family happy. S01 E1209.",
             "seriesId": "SABHDPI",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64132604182130",
             "catchup": false
           },
@@ -5055,7 +5110,7 @@
             "title": "Maddam Sir",
             "desc": "Karishma makes a promise to a lady that she will help her reclaim her job. S01 E227.",
             "seriesId": "SABHDMaddam Sir",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64132604182200",
             "catchup": false
           },
@@ -5066,7 +5121,7 @@
             "title": "Maddam Sir",
             "desc": "Fatima realises that she will have to visit Karishma's police station for verification. S01 E228.",
             "seriesId": "SABHDMaddam Sir",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64132604182230",
             "catchup": false
           },
@@ -5077,7 +5132,7 @@
             "title": "Taarak Mehta Ka Ooltah Chashmah",
             "desc": "The residents of a housing society face real-life challenges and find solutions for it. S01 E4687.",
             "seriesId": "SABHDTMKOC",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64132604182300",
             "catchup": false
           },
@@ -5088,7 +5143,7 @@
             "title": "Pushpa Impossible",
             "desc": "An uneducated woman starts a business and tries to keep her family happy. S01 E1209.",
             "seriesId": "SABHDPI",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64132604182330",
             "catchup": false
           }
@@ -5462,7 +5517,7 @@
             "title": "Taarak Mehta Ka Ooltah Chashmah",
             "desc": "Bhide holds a meeting in Taarak's house to discuss the kids' play time in the society. S01 E1125.",
             "seriesId": "SABTMKOC",
-            "epgState": "ON_AIR",
+            "epgState": "REVERSE",
             "epgSlotId": "64122604181230",
             "catchup": false
           },
@@ -5473,7 +5528,7 @@
             "title": "Taarak Mehta Ka Ooltah Chashmah",
             "desc": "Sangram collects proof against Tapu Sena and records everything on his mobile phone. S01 E1126.",
             "seriesId": "SABTMKOC",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64122604181300",
             "catchup": false
           },
@@ -5484,7 +5539,7 @@
             "title": "Taarak Mehta Ka Ooltah Chashmah",
             "desc": "Tapu Sena is scared as they have to inform their parents about Gogi being trapped. S01 E1127.",
             "seriesId": "SABTMKOC",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64122604181330",
             "catchup": false
           },
@@ -5495,7 +5550,7 @@
             "title": "Taarak Mehta Ka Ooltah Chashmah",
             "desc": "The Gokuldham members rush to Sangram Singh's property to release Gogi from his trap. S01 E1128.",
             "seriesId": "SABTMKOC",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64122604181400",
             "catchup": false
           },
@@ -5506,7 +5561,7 @@
             "title": "Taarak Mehta Ka Ooltah Chashmah",
             "desc": "Sangram Singh asks the kids to bring their parents to resolve the issue. S01 E1129.",
             "seriesId": "SABTMKOC",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64122604181430",
             "catchup": false
           },
@@ -5517,7 +5572,7 @@
             "title": "Taarak Mehta Ka Ooltah Chashmah",
             "desc": "Since Sodhi is out of town, Iyer and Babita decide to meet Sangram as Gogi's parents. S01 E1130.",
             "seriesId": "SABTMKOC",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64122604181500",
             "catchup": false
           },
@@ -5528,7 +5583,7 @@
             "title": "Taarak Mehta Ka Ooltah Chashmah",
             "desc": "Sanghram Singh feels touched by Bhairav's cricket game in Gokuldham Society. S01 E1131.",
             "seriesId": "SABTMKOC",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64122604181530",
             "catchup": false
           },
@@ -5539,7 +5594,7 @@
             "title": "Taarak Mehta Ka Ooltah Chashmah",
             "desc": "Jethalal discusses renovations with Gokuldham's residents when they all face house-related problems. S01 E1767.",
             "seriesId": "SABTMKOC",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64122604181600",
             "catchup": false
           },
@@ -5550,7 +5605,7 @@
             "title": "Taarak Mehta Ka Ooltah Chashmah",
             "desc": "Chaos ensues in Gokuldham as they want to bring Ganesha in. The problems in the houses get worse. S01 E1768.",
             "seriesId": "SABTMKOC",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64122604181630",
             "catchup": false
           },
@@ -5561,7 +5616,7 @@
             "title": "Taarak Mehta Ka Ooltah Chashmah",
             "desc": "Inspector Pandey reveals how he managed to bring the Ganapati idol to Gokuldham. S01 E1769.",
             "seriesId": "SABTMKOC",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64122604181700",
             "catchup": false
           },
@@ -5572,7 +5627,7 @@
             "title": "Taarak Mehta Ka Ooltah Chashmah",
             "desc": "A game Tapu Sena have planned for the seniors of the society makes Bhide and the residents worried. S01 E1770.",
             "seriesId": "SABTMKOC",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64122604181730",
             "catchup": false
           },
@@ -5583,7 +5638,7 @@
             "title": "Taarak Mehta Ka Ooltah Chashmah",
             "desc": "Tapu Sena and the residents of Gokuldham get excited with the game. S01 E1771.",
             "seriesId": "SABTMKOC",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64122604181800",
             "catchup": false
           },
@@ -5594,7 +5649,18 @@
             "title": "Taarak Mehta Ka Ooltah Chashmah",
             "desc": "The game continues as Gokuldham's residents wait for their tasks. S01 E1772.",
             "seriesId": "SABTMKOC",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
+            "epgSlotId": "64122604181830",
+            "catchup": false
+          },
+          {
+            "id": 93566023,
+            "startTime": 1776517200000,
+            "endTime": 1776519000000,
+            "title": "Taarak Mehta Ka Ooltah Chashmah",
+            "desc": "The game continues as Gokuldham's residents wait for their tasks. S01 E1772.",
+            "seriesId": "SABTMKOC",
+            "epgState": "REVERSE",
             "epgSlotId": "64122604181830",
             "catchup": false
           },
@@ -5605,7 +5671,7 @@
             "title": "Taarak Mehta Ka Ooltah Chashmah",
             "desc": "Popatlal hesitantly agrees to do qawwali with Taarak, and they impress the entire audience. S01 E1773.",
             "seriesId": "SABTMKOC",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64122604181900",
             "catchup": false
           },
@@ -5616,7 +5682,7 @@
             "title": "Taarak Mehta Ka Ooltah Chashmah",
             "desc": "All are excited about the game designed by Tapu Sena where each member has to rotate the two wheels. S01 E1774.",
             "seriesId": "SABTMKOC",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64122604181930",
             "catchup": false
           },
@@ -5627,7 +5693,7 @@
             "title": "Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan",
             "desc": "Following a traumatic accident and losing years of memory, Dr Dev struggles to rebuild his life. S01 E12.",
             "seriesId": "SABHGYEDDZ",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64122604182000",
             "catchup": false
           },
@@ -5638,7 +5704,7 @@
             "title": "Taarak Mehta Ka Ooltah Chashmah",
             "desc": "The residents of a housing society help each other when they face real-life challenges. S01 E4688.",
             "seriesId": "SABTMKOC",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64122604182030",
             "catchup": false
           },
@@ -5649,7 +5715,7 @@
             "title": "Itti Si Khushi",
             "desc": "Anvita shoulders the burden of raising her five siblings amidst their father's alcoholism. S01 E210.",
             "seriesId": "SABISK",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64122604182100",
             "catchup": false
           },
@@ -5660,7 +5726,7 @@
             "title": "Pushpa Impossible",
             "desc": "An uneducated woman from Gujarat starts a business and attempts to keep her family happy. S01 E1210.",
             "seriesId": "SABPI",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64122604182130",
             "catchup": false
           },
@@ -5671,7 +5737,7 @@
             "title": "Taarak Mehta Ka Ooltah Chashmah",
             "desc": "A marketing executive relentlessly calls Jethalal to invest in his company. S01 E1831.",
             "seriesId": "SABTMKOC",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64122604182200",
             "catchup": false
           },
@@ -5682,7 +5748,7 @@
             "title": "Taarak Mehta Ka Ooltah Chashmah",
             "desc": "Jethalal seeks Mr Mehta's advice to get Babita's signature on the contract for the modelling work. S01 E1832.",
             "seriesId": "SABTMKOC",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64122604182230",
             "catchup": false
           },
@@ -5693,7 +5759,7 @@
             "title": "Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan",
             "desc": "Following a traumatic accident and losing years of memory, Dr Dev struggles to rebuild his life. S01 E12.",
             "seriesId": "SABHGYEDDZ",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64122604182245",
             "catchup": false
           },
@@ -5704,7 +5770,7 @@
             "title": "Taarak Mehta Ka Ooltah Chashmah",
             "desc": "The residents of a housing society help each other when they face real-life challenges. S01 E4688.",
             "seriesId": "SABTMKOC",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64122604182300",
             "catchup": false
           },
@@ -5715,7 +5781,7 @@
             "title": "Taarak Mehta Ka Ooltah Chashmah",
             "desc": "Jethalal finds himself in the midst of another crisis at Gokuldham. S01 E3388.",
             "seriesId": "SABTMKOC",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "64122604182330",
             "catchup": false
           }
@@ -5974,24 +6040,13 @@
             "catchup": false
           },
           {
-            "id": 93543924,
-            "startTime": 1776493800000,
-            "endTime": 1776497400000,
-            "title": "The Kapil Sharma Show",
-            "desc": "Comedian Kapil Sharma interacts with celebrity guests about their latest films while keeping the audience laughing with his wit, humour and assorted skits. S01 E216.",
-            "seriesId": "ACOMTKSS",
-            "epgState": "ON_AIR",
-            "epgSlotId": "65372604181200",
-            "catchup": false
-          },
-          {
             "id": 93543939,
             "startTime": 1776497400000,
             "endTime": 1776501000000,
             "title": "The Kapil Sharma Show",
             "desc": "Comedian Kapil Sharma interacts with celebrity guests about their latest films while keeping the audience laughing with his wit, humour and assorted skits. S01 E216.",
             "seriesId": "ACOMTKSS",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65372604181300",
             "catchup": false
           },
@@ -6002,7 +6057,7 @@
             "title": "The Kapil Sharma Show",
             "desc": "Comedian Kapil Sharma interacts with celebrity guests about their latest films while keeping the audience laughing with his wit, humour and assorted skits. S01 E216.",
             "seriesId": "ACOMTKSS",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65372604181400",
             "catchup": false
           },
@@ -6013,7 +6068,7 @@
             "title": "Comedy Nights With Kapil",
             "desc": "Kapil Sharma, the host, starts off with a comedy act and later moves on to interview celebrities with fellow co-actors. S01 E11.",
             "seriesId": "ACOMCNWK",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65372604181500",
             "catchup": false
           },
@@ -6024,7 +6079,7 @@
             "title": "Comedy Nights With Kapil",
             "desc": "Kapil Sharma, the host, starts off with a comedy act and later moves on to interview celebrities with fellow co-actors. S01 E11.",
             "seriesId": "ACOMCNWK",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65372604181600",
             "catchup": false
           },
@@ -6035,7 +6090,7 @@
             "title": "Comedy Nights With Kapil",
             "desc": "Kapil Sharma, the host, starts off with a comedy act and later moves on to interview celebrities with fellow co-actors. S01 E11.",
             "seriesId": "ACOMCNWK",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65372604181700",
             "catchup": false
           },
@@ -6046,7 +6101,7 @@
             "title": "Comedy Nights With Kapil",
             "desc": "Kapil Sharma, the host, starts off with a comedy act and later moves on to interview celebrities with fellow co-actors. S01 E11.",
             "seriesId": "ACOMCNWK",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65372604181800",
             "catchup": false
           },
@@ -6057,7 +6112,7 @@
             "title": "Comedy Nights With Kapil",
             "desc": "Kapil Sharma, the host, starts off with a comedy act and later moves on to interview celebrities with fellow co-actors. S01 E11.",
             "seriesId": "ACOMCNWK",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65372604181900",
             "catchup": false
           },
@@ -6068,7 +6123,7 @@
             "title": "Jack And Dil",
             "desc": "Jack, a detective novel enthusiast, comes across a businessman, Walia, who wants Jack to adopt his dog. However, things take a turn when a suspicious Walia asks Jack to spy on his wife. S01 E118.",
             "seriesId": "ACOMJack And Dil",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65372604182000",
             "catchup": false
           },
@@ -6079,7 +6134,7 @@
             "title": "Best Of Non Fiction/Reality",
             "desc": "A package comprising funny trending videos, spoofs, series trending online, like (Hasgulle - Kaviyon Ka Swag S1 & S2, Waiting Lounge, Paanch Namune, Prankstar Season 1 & 2, Comedy Baadshah). S01 E08.",
             "seriesId": "ACOMBONF",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65372604182300",
             "catchup": false
           }
@@ -6449,7 +6504,7 @@
             "title": "Bhabi ji Ghar Par Hai!",
             "desc": "In an attempt to sabotage Happu's catering business, Manmohan messes with Happu's tiffin. S01 E90.",
             "seriesId": "ANDHDBjGPH",
-            "epgState": "ON_AIR",
+            "epgState": "REVERSE",
             "epgSlotId": "59402604181230",
             "catchup": true
           },
@@ -6460,7 +6515,7 @@
             "title": "Bhabi ji Ghar Par Hai!",
             "desc": "Angoori and Vibhuti investigate Tiwari's admirer while Anita suspects Vibhuti of cheating. S01 E91.",
             "seriesId": "ANDHDBjGPH",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59402604181245",
             "catchup": true
           },
@@ -6471,7 +6526,7 @@
             "title": "Bhabi ji Ghar Par Hai!",
             "desc": "Angoori and Vibhuti investigate Tiwari's secret singing as Amma Ji prepares to visit. S01 E92.",
             "seriesId": "ANDHDBjGPH",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59402604181300",
             "catchup": true
           },
@@ -6482,7 +6537,7 @@
             "title": "Bhabi ji Ghar Par Hai!",
             "desc": "Manmohan is distressed about Angoori's affair and Amma Ji ousts Manmohan from the house. S01 E93.",
             "seriesId": "ANDHDBjGPH",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59402604181315",
             "catchup": true
           },
@@ -6493,7 +6548,7 @@
             "title": "Bhabi ji Ghar Par Hai!",
             "desc": "Anita and Angoori discover the truth about their husbands and apologise to them. S01 E94.",
             "seriesId": "ANDHDBjGPH",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59402604181330",
             "catchup": true
           },
@@ -6504,7 +6559,7 @@
             "title": "Entertainment",
             "desc": "A billionaire's son learns that a dog has inherited his father's enormous wealth.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59402604181400",
             "catchup": true
           },
@@ -6515,7 +6570,7 @@
             "title": "Bhabi ji Ghar Par Hai!",
             "desc": "A misunderstanding involving a rat leads Anita and Vibhuti to call the police on Tiwari. S01 E95.",
             "seriesId": "ANDHDBjGPH",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59402604181621",
             "catchup": true
           },
@@ -6526,7 +6581,7 @@
             "title": "Bhabi ji Ghar Par Hai!",
             "desc": "Anita and Vibhuti mistake Tiwari's rehearsal for a real threat and attempt a rescue. S01 E96.",
             "seriesId": "ANDHDBjGPH",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59402604181630",
             "catchup": true
           },
@@ -6537,7 +6592,7 @@
             "title": "Bhabi ji Ghar Par Hai!",
             "desc": "Anita falls on Vibhuti's slippers and calls him careless and they end up fighting. S01 E97.",
             "seriesId": "ANDHDBjGPH",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59402604181700",
             "catchup": true
           },
@@ -6548,7 +6603,7 @@
             "title": "Bhabi ji Ghar Par Hai!",
             "desc": "Saxena reaches Anita's place and gets relevant information from her. S01 E98.",
             "seriesId": "ANDHDBjGPH",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59402604181730",
             "catchup": true
           },
@@ -6559,7 +6614,7 @@
             "title": "Paramavatar Shri Krishna",
             "desc": "Kanha baffles everyone by making the Moon static, and Radha races to Sage Gargacharya. S01E83.",
             "seriesId": "ANDHDPSK",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59402604181800",
             "catchup": true
           },
@@ -6570,7 +6625,7 @@
             "title": "Bhabi ji Ghar Par Hai!",
             "desc": "Vibhuti persuades Anita to visit Manmohan's home for dinner, despite Happu's caution. S01 E161.",
             "seriesId": "ANDHDBjGPH",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59402604181911",
             "catchup": true
           },
@@ -6581,7 +6636,7 @@
             "title": "Man Mohini",
             "desc": "Ram and Sia, are experiencing some seriously creepy and unsettling things in their marriage. S01 E48.",
             "seriesId": "ANDHDMan Mohini",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59402604181933",
             "catchup": true
           },
@@ -6592,7 +6647,7 @@
             "title": "Bhabi ji Ghar Par Hai!",
             "desc": "Vibhuti grows suspicious after discovering a strand of hair on Manmohan's shirt. S01 E44.",
             "seriesId": "ANDHDBjGPH",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59402604182000",
             "catchup": true
           },
@@ -6603,7 +6658,7 @@
             "title": "Bhabi ji Ghar Par Hai!",
             "desc": "Anita clarifies that she had gifted a tie, they realise that the confusion was created by Vibhuti. S01 E10.",
             "seriesId": "ANDHDBjGPH",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59402604182230",
             "catchup": true
           }
@@ -6959,7 +7014,7 @@
             "title": "Bhabi ji Ghar Par Hai!",
             "desc": "In an attempt to sabotage Happu's catering business, Manmohan messes with Happu's tiffin. S01 E90.",
             "seriesId": "ANDTVBjGPH",
-            "epgState": "ON_AIR",
+            "epgState": "REVERSE",
             "epgSlotId": "59392604181230",
             "catchup": false
           },
@@ -6970,7 +7025,7 @@
             "title": "Bhabi ji Ghar Par Hai!",
             "desc": "Angoori and Vibhuti investigate Tiwari's admirer while Anita suspects Vibhuti of cheating. S01 E91.",
             "seriesId": "ANDTVBjGPH",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59392604181245",
             "catchup": false
           },
@@ -6981,7 +7036,7 @@
             "title": "Bhabi ji Ghar Par Hai!",
             "desc": "Angoori and Vibhuti investigate Tiwari's secret singing as Amma Ji prepares to visit. S01 E92.",
             "seriesId": "ANDTVBjGPH",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59392604181300",
             "catchup": false
           },
@@ -6992,7 +7047,7 @@
             "title": "Bhabi ji Ghar Par Hai!",
             "desc": "Two neighbours, bored with their family lives, are captivated by each other's wives. S01 E93.",
             "seriesId": "ANDTVBjGPH",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59392604181315",
             "catchup": false
           },
@@ -7003,7 +7058,7 @@
             "title": "Bhabi ji Ghar Par Hai!",
             "desc": "Anita and Angoori discover the truth about their husbands and apologise to them. S01 E94.",
             "seriesId": "ANDTVBjGPH",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59392604181330",
             "catchup": false
           },
@@ -7014,7 +7069,7 @@
             "title": "Entertainment",
             "desc": "A billionaire's son learns that a dog has inherited his father's enormous wealth.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59392604181400",
             "catchup": false
           },
@@ -7025,7 +7080,7 @@
             "title": "Bhabi ji Ghar Par Hai!",
             "desc": "A misunderstanding involving a rat leads Anita and Vibhuti to call the police on Tiwari. S01 E95.",
             "seriesId": "ANDTVBjGPH",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59392604181617",
             "catchup": false
           },
@@ -7036,7 +7091,7 @@
             "title": "Bhabi ji Ghar Par Hai!",
             "desc": "Anita and Vibhuti mistake Tiwari's rehearsal for a real threat and attempt a rescue. S01 E96.",
             "seriesId": "ANDTVBjGPH",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59392604181630",
             "catchup": false
           },
@@ -7047,7 +7102,7 @@
             "title": "Bhabi ji Ghar Par Hai!",
             "desc": "Anita falls on Vibhuti's slippers and calls him careless and they end up fighting. S01 E97.",
             "seriesId": "ANDTVBjGPH",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59392604181700",
             "catchup": false
           },
@@ -7058,7 +7113,7 @@
             "title": "Bhabi ji Ghar Par Hai!",
             "desc": "Saxena reaches Anita's place and gets relevant information from her. S01 E98.",
             "seriesId": "ANDTVBjGPH",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59392604181730",
             "catchup": false
           },
@@ -7069,7 +7124,7 @@
             "title": "Paramavatar Shri Krishna",
             "desc": "Kanha baffles everyone by making the Moon static, and Radha races to Sage Gargacharya. S01E83.",
             "seriesId": "ANDTVPSK",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59392604181752",
             "catchup": false
           },
@@ -7080,7 +7135,7 @@
             "title": "Man Mohini",
             "desc": "Ram and Sia, are experiencing some seriously creepy and unsettling things in their marriage. S01 E48.",
             "seriesId": "ANDTVMan Mohini",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59392604181924",
             "catchup": false
           },
@@ -7091,7 +7146,7 @@
             "title": "Bhabi ji Ghar Par Hai!",
             "desc": "Vibhuti grows suspicious after discovering a strand of hair on Manmohan's shirt. S01 E44.",
             "seriesId": "ANDTVBjGPH",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59392604181955",
             "catchup": false
           },
@@ -7102,7 +7157,7 @@
             "title": "Bhabi ji Ghar Par Hai!",
             "desc": "Anita clarifies that she had gifted a tie, they realise that the confusion was created by Vibhuti. S01 E10.",
             "seriesId": "ANDTVBjGPH",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59392604182230",
             "catchup": false
           }
@@ -7377,28 +7432,6 @@
             "catchup": true
           },
           {
-            "id": 93571841,
-            "startTime": 1776472200000,
-            "endTime": 1776474000000,
-            "title": "Ganga Mai Ki Betiyaan",
-            "desc": "Ganga raises her three daughters within Varanasi after being abandon for lacking a son. S01 E203.",
-            "seriesId": "ZEHDGMKB",
-            "epgState": "REVERSE",
-            "epgSlotId": "66972604180600",
-            "catchup": true
-          },
-          {
-            "id": 93571841,
-            "startTime": 1776472200000,
-            "endTime": 1776474000000,
-            "title": "Ganga Mai Ki Betiyaan",
-            "desc": "Ganga raises her three daughters within Varanasi after being abandon for lacking a son. S01 E203.",
-            "seriesId": "ZEHDGMKB",
-            "epgState": "REVERSE",
-            "epgSlotId": "66972604180600",
-            "catchup": true
-          },
-          {
             "id": 93571816,
             "startTime": 1776474000000,
             "endTime": 1776475800000,
@@ -7515,7 +7548,7 @@
             "title": "Lakshmi Nivas",
             "desc": "Lakshmi abandons her affluent roots to build a selfless life with Shriniwas. S01 E94.",
             "seriesId": "ZEHDLakshmi Nivas",
-            "epgState": "ON_AIR",
+            "epgState": "REVERSE",
             "epgSlotId": "66972604181200",
             "catchup": true
           },
@@ -7526,7 +7559,7 @@
             "title": "Saru",
             "desc": "A kabaddi player balances her ambitions while fighting for her mother's family status. S01 E337.",
             "seriesId": "ZEHDSaru",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "66972604181257",
             "catchup": true
           },
@@ -7537,7 +7570,7 @@
             "title": "Tum Se Tum Tak",
             "desc": "A young woman's unexpected bond with a much older businessman brings change. S01 E282.",
             "seriesId": "ZEHDTSTT",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "66972604181321",
             "catchup": true
           },
@@ -7548,7 +7581,7 @@
             "title": "Ganga Mai Ki Betiyaan",
             "desc": "Ganga receives a generous offer for her house by her husband. S01 E15.",
             "seriesId": "ZEHDGMKB",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "66972604181345",
             "catchup": true
           },
@@ -7559,7 +7592,7 @@
             "title": "Jagadhatri",
             "desc": "Jagadhatri finds her red sari is missing and Kaushiki gives her a new one. S01 E157.",
             "seriesId": "ZEHDJagadhatri",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "66972604181409",
             "catchup": true
           },
@@ -7570,19 +7603,8 @@
             "title": "Vasudha",
             "desc": "Vasudha, a maid at Chandrika's household, seeks approval from the business tycoon. S01 E533.",
             "seriesId": "ZEHDVasudha",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "66972604181432",
-            "catchup": true
-          },
-          {
-            "id": 93571819,
-            "startTime": 1776504600000,
-            "endTime": 1776506400000,
-            "title": "Jaane Anjaane Hum Mile",
-            "desc": "Reet promises Raghav his release from police custody despite her own anxieties. S01 E486.",
-            "seriesId": "ZEHDJAHM",
-            "epgState": "FORWARD",
-            "epgSlotId": "66972604181500",
             "catchup": true
           },
           {
@@ -7592,7 +7614,7 @@
             "title": "Saru",
             "desc": "A kabaddi player balances her ambitions while fighting for her mother's family status. S01 E337.",
             "seriesId": "ZEHDSaru",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "66972604181530",
             "catchup": true
           },
@@ -7603,7 +7625,7 @@
             "title": "Ganga Mai Ki Betiyaan",
             "desc": "Ganga raises her three daughters within Varanasi after being abandon for lacking a son. S01 E203.",
             "seriesId": "ZEHDGMKB",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "66972604181600",
             "catchup": true
           },
@@ -7614,7 +7636,7 @@
             "title": "Lakshmi Nivas",
             "desc": "Lakshmi abandons her affluent roots to build a selfless life with Shriniwas. S01 E94.",
             "seriesId": "ZEHDLakshmi Nivas",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "66972604181630",
             "catchup": true
           },
@@ -7625,7 +7647,7 @@
             "title": "Vasudha",
             "desc": "Vasudha, a maid at Chandrika's household, seeks approval from the business tycoon. S01 E533.",
             "seriesId": "ZEHDVasudha",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "66972604181730",
             "catchup": true
           },
@@ -7636,19 +7658,8 @@
             "title": "Tum Se Tum Tak",
             "desc": "A young woman's unexpected bond with a much older businessman brings change. S01 E282.",
             "seriesId": "ZEHDTSTT",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "66972604181801",
-            "catchup": true
-          },
-          {
-            "id": 93571807,
-            "startTime": 1776517200000,
-            "endTime": 1776519000000,
-            "title": "Ganga Mai Ki Betiyaan",
-            "desc": "Ganga raises her three daughters within Varanasi after being abandon for lacking a son. S01 E203.",
-            "seriesId": "ZEHDGMKB",
-            "epgState": "FORWARD",
-            "epgSlotId": "66972604181830",
             "catchup": true
           },
           {
@@ -7658,7 +7669,7 @@
             "title": "Saru",
             "desc": "A kabaddi player balances her ambitions while fighting for her mother's family status. S01 E338.",
             "seriesId": "ZEHDSaru",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "66972604181900",
             "catchup": true
           },
@@ -7669,7 +7680,7 @@
             "title": "Lakshmi Nivas",
             "desc": "A multi-generational drama showing daughters' struggles, family loyalty, and societal expectations. S01 E95.",
             "seriesId": "ZEHDLakshmi Nivas",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "66972604181939",
             "catchup": true
           },
@@ -7680,7 +7691,7 @@
             "title": "Tum Se Tum Tak",
             "desc": "A young woman's unexpected bond with a much older businessman brings change. S01 E283.",
             "seriesId": "ZEHDTSTT",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "66972604182034",
             "catchup": true
           },
@@ -7691,7 +7702,7 @@
             "title": "Ganga Mai Ki Betiyaan",
             "desc": "Ganga Mai dedicates herself to raising her daughters after being abandoned by her husband. S01 E204.",
             "seriesId": "ZEHDGMKB",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "66972604182101",
             "catchup": true
           },
@@ -7702,7 +7713,7 @@
             "title": "Vasudha",
             "desc": "Vasudha, a maid at Chandrika's household, seeks approval from the business tycoon. S01 E534.",
             "seriesId": "ZEHDVasudha",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "66972604182154",
             "catchup": true
           },
@@ -7713,7 +7724,7 @@
             "title": "Jagadhatri",
             "desc": "After an evening of recitation and song, Shreemoti and Rajiv discover four friends dead. S01 E158.",
             "seriesId": "ZEHDJagadhatri",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "66972604182234",
             "catchup": true
           },
@@ -7724,7 +7735,7 @@
             "title": "Jaane Anjaane Hum Mile",
             "desc": "Reet, a career-oriented woman, finds it difficult to deal with the pressures of marriage. S01 E487.",
             "seriesId": "ZEHDJAHM",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "66972604182303",
             "catchup": true
           },
@@ -7735,7 +7746,7 @@
             "title": "Tum Se Tum Tak",
             "desc": "A young woman's unexpected bond with a much older businessman brings change. S01 E283.",
             "seriesId": "ZEHDTSTT",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "66972604182333",
             "catchup": true
           }
@@ -8122,7 +8133,7 @@
             "title": "Lakshmi Nivas",
             "desc": "Lakshmi abandons her affluent roots to build a selfless life with Shriniwas. S01 E94.",
             "seriesId": "ZEELakshmi Nivas",
-            "epgState": "ON_AIR",
+            "epgState": "REVERSE",
             "epgSlotId": "66962604181159",
             "catchup": true
           },
@@ -8133,7 +8144,7 @@
             "title": "Saru",
             "desc": "A kabaddi player balances her ambitions while fighting for her mother's family status. S01 E337.",
             "seriesId": "ZEESaru",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "66962604181258",
             "catchup": true
           },
@@ -8144,7 +8155,7 @@
             "title": "Tum Se Tum Tak",
             "desc": "A young woman's unexpected bond with a much older businessman brings change. S01 E282.",
             "seriesId": "ZEETSTT",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "66962604181328",
             "catchup": true
           },
@@ -8155,7 +8166,7 @@
             "title": "Ganga Mai Ki Betiyaan",
             "desc": "Ganga Mai dedicates herself to raising her daughters after being abandoned by her husband. S01 E34.",
             "seriesId": "ZEEGMKB",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "66962604181349",
             "catchup": true
           },
@@ -8166,7 +8177,7 @@
             "title": "Jagadhatri",
             "desc": "Jagadhatri finds her red sari is missing and Kaushiki gives her a new one. S01 E157.",
             "seriesId": "ZEEJagadhatri",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "66962604181410",
             "catchup": true
           },
@@ -8177,7 +8188,7 @@
             "title": "Vasudha",
             "desc": "Vasudha, a maid at Chandrika's household, seeks approval from the business tycoon. S01 E533.",
             "seriesId": "ZEEVasudha",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "66962604181432",
             "catchup": true
           },
@@ -8188,7 +8199,7 @@
             "title": "Jaane Anjaane Hum Mile",
             "desc": "Reet promises Raghav his release from police custody despite her own anxieties. S01 E486.",
             "seriesId": "ZEEJAHM",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "66962604181501",
             "catchup": true
           },
@@ -8199,7 +8210,7 @@
             "title": "Saru",
             "desc": "A kabaddi player balances her ambitions while fighting for her mother's family status. S01 E337.",
             "seriesId": "ZEESaru",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "66962604181530",
             "catchup": true
           },
@@ -8210,7 +8221,7 @@
             "title": "Ganga Mai Ki Betiyaan",
             "desc": "Ganga raises her three daughters within Varanasi after being abandon for lacking a son. S01 E203.",
             "seriesId": "ZEEGMKB",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "66962604181600",
             "catchup": true
           },
@@ -8221,7 +8232,7 @@
             "title": "Lakshmi Nivas",
             "desc": "Lakshmi abandons her affluent roots to build a selfless life with Shriniwas. S01 E94.",
             "seriesId": "ZEELakshmi Nivas",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "66962604181630",
             "catchup": true
           },
@@ -8232,7 +8243,7 @@
             "title": "Vasudha",
             "desc": "Vasudha, a maid at Chandrika's household, seeks approval from the business tycoon. S01 E533.",
             "seriesId": "ZEEVasudha",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "66962604181730",
             "catchup": true
           },
@@ -8243,7 +8254,7 @@
             "title": "Tum Se Tum Tak",
             "desc": "A young woman's unexpected bond with a much older businessman brings change. S01 E282.",
             "seriesId": "ZEETSTT",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "66962604181800",
             "catchup": true
           },
@@ -8254,7 +8265,7 @@
             "title": "Ganga Mai Ki Betiyaan",
             "desc": "Ganga raises her three daughters within Varanasi after being abandon for lacking a son. S01 E203.",
             "seriesId": "ZEEGMKB",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "66962604181830",
             "catchup": true
           },
@@ -8265,7 +8276,7 @@
             "title": "Saru",
             "desc": "A kabaddi player balances her ambitions while fighting for her mother's family status. S01 E338.",
             "seriesId": "ZEESaru",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "66962604181859",
             "catchup": true
           },
@@ -8276,7 +8287,7 @@
             "title": "Lakshmi Nivas",
             "desc": "A multi-generational drama showing daughters' struggles, family loyalty, and societal expectations. S01 E95.",
             "seriesId": "ZEELakshmi Nivas",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "66962604181939",
             "catchup": true
           },
@@ -8287,7 +8298,7 @@
             "title": "Tum Se Tum Tak",
             "desc": "A young woman's unexpected bond with a much older businessman brings change. S01 E283.",
             "seriesId": "ZEETSTT",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "66962604182037",
             "catchup": true
           },
@@ -8298,7 +8309,7 @@
             "title": "Ganga Mai Ki Betiyaan",
             "desc": "Ganga Mai dedicates herself to raising her daughters after being abandoned by her husband. S01 E204.",
             "seriesId": "ZEEGMKB",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "66962604182108",
             "catchup": true
           },
@@ -8309,7 +8320,7 @@
             "title": "Vasudha",
             "desc": "Vasudha, a maid at Chandrika's household, seeks approval from the business tycoon. S01 E534.",
             "seriesId": "ZEEVasudha",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "66962604182154",
             "catchup": true
           },
@@ -8320,7 +8331,7 @@
             "title": "Jagadhatri",
             "desc": "After an evening of recitation and song, Shreemoti and Rajiv discover four friends dead. S01 E158.",
             "seriesId": "ZEEJagadhatri",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "66962604182234",
             "catchup": true
           },
@@ -8331,7 +8342,7 @@
             "title": "Jaane Anjaane Hum Mile",
             "desc": "Reet, a career-oriented woman, finds it difficult to deal with the pressures of marriage. S01 E487.",
             "seriesId": "ZEEJAHM",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "66962604182303",
             "catchup": true
           },
@@ -8342,7 +8353,7 @@
             "title": "Tum Se Tum Tak",
             "desc": "A young woman's unexpected bond with a much older businessman brings change. S01 E283.",
             "seriesId": "ZEETSTT",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "66962604182329",
             "catchup": true
           },
@@ -8353,7 +8364,7 @@
             "title": "Vasudha",
             "desc": "Vasudha, a maid at Chandrika's household, seeks approval from the business tycoon. S01 E534.",
             "seriesId": "ZEEVasudha",
-            "epgState": "FORWARD",
+            "epgState": "ON_AIR",
             "epgSlotId": "66962604182356",
             "catchup": true
           }
@@ -8464,7 +8475,7 @@
             "title": "Agent Raghav",
             "desc": "Agent Raghav Sinha expertly reads body language as he cracks complex cases.",
             "seriesId": "",
-            "epgState": "ON_AIR",
+            "epgState": "REVERSE",
             "epgSlotId": "65172604181200",
             "catchup": false
           },
@@ -8475,7 +8486,7 @@
             "title": "Albert Pinto Ko Gussa Kyun Aata Hai?",
             "desc": "A man embarks on his first assassination mission while his loved ones worry.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65172604181300",
             "catchup": false
           },
@@ -8486,7 +8497,7 @@
             "title": "Alarm Fur Cobra 11",
             "desc": "Two inspectors and their squad from a Bonn-Cologne station combat diverse offenders daily.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65172604181600",
             "catchup": false
           },
@@ -8497,7 +8508,7 @@
             "title": "Alarm Fur Cobra 11",
             "desc": "Two inspectors and their squad from a Bonn-Cologne station combat diverse offenders daily.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65172604181700",
             "catchup": false
           },
@@ -8508,7 +8519,7 @@
             "title": "Alarm Fur Cobra 11",
             "desc": "Two inspectors and their squad from a Bonn-Cologne station combat diverse offenders daily.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65172604181800",
             "catchup": false
           },
@@ -8519,7 +8530,7 @@
             "title": "Aahat",
             "desc": "An anthology of stories revolving around paranormal activities and supernatural entities.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65172604181900",
             "catchup": false
           },
@@ -8530,7 +8541,7 @@
             "title": "Bose",
             "desc": "Netaji Subhash Chandra Bose remains an enigma regarding his supposed demise.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65172604181930",
             "catchup": false
           },
@@ -8541,7 +8552,7 @@
             "title": "Maqbool",
             "desc": "A don's henchman falls in love with his mistress, who instigates him to kill his boss.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65172604182000",
             "catchup": false
           },
@@ -8552,7 +8563,7 @@
             "title": "Rajwaado Ka Rahasya",
             "desc": "A young woman embarks on a quest to uncover the truth behind a destitute girl's dark past.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65172604182300",
             "catchup": false
           }
@@ -8621,17 +8632,6 @@
             "seriesId": "ACJAJe Na Hoye",
             "epgState": "REVERSE",
             "epgSlotId": "65542604180200",
-            "catchup": false
-          },
-          {
-            "id": 93543914,
-            "startTime": 1776461400000,
-            "endTime": 1776465000000,
-            "title": "Ati Parichaen",
-            "desc": "Javed Akhtar interprets Vrind's doha \"Ati Parichaen\" where he talks about how familiarity breeds contempt. Hence, similarity is comforting but you need diversification to grow and appreciate. S01 E48.",
-            "seriesId": "ACJAAti Parichaen",
-            "epgState": "REVERSE",
-            "epgSlotId": "65542604180300",
             "catchup": false
           },
           {
@@ -8734,24 +8734,13 @@
             "catchup": false
           },
           {
-            "id": 93543903,
-            "startTime": 1776493800000,
-            "endTime": 1776497400000,
-            "title": "Maarag Chalte Jau",
-            "desc": "Javed Akhtar interprets Kabir's doha \"Maarag Chalte Jau\" where he says, a person walking on a path is on a journey & if he falls do not criticize him, as he is at least trying to reach. S01 E23.",
-            "seriesId": "ACJAMCJ",
-            "epgState": "ON_AIR",
-            "epgSlotId": "65542604181200",
-            "catchup": false
-          },
-          {
             "id": 93543907,
             "startTime": 1776497400000,
             "endTime": 1776501000000,
             "title": "Bigdi Baat Banai",
             "desc": "Javed Akhtar interprets Rahim's doha \"Bigdi Baat Banai\" where he says, if things go wrong, there is no use of sitting hanging on it, but a new industry should be started anew. S01 E10.",
             "seriesId": "ACJABBB",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65542604181300",
             "catchup": false
           },
@@ -8762,7 +8751,7 @@
             "title": "Karat Karat Abhyaas",
             "desc": ". S01 E54.",
             "seriesId": "ACJAKKA",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65542604181400",
             "catchup": false
           },
@@ -8773,7 +8762,18 @@
             "title": "Ucche Baithe Na",
             "desc": ". S01 E41.",
             "seriesId": "ACJAUBN",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
+            "epgSlotId": "65542604181500",
+            "catchup": false
+          },
+          {
+            "id": 93543915,
+            "startTime": 1776504600000,
+            "endTime": 1776508200000,
+            "title": "Ucche Baithe Na",
+            "desc": ". S01 E41.",
+            "seriesId": "ACJAUBN",
+            "epgState": "REVERSE",
             "epgSlotId": "65542604181500",
             "catchup": false
           },
@@ -8784,7 +8784,7 @@
             "title": "Ari Chotau",
             "desc": "Javed Akhtar interprets Vrind's doha \"Ari Chotau\" where he says, never consider your enemies weak, less or ordinary because even a small spark can destroy a big stack of hay. S01 E73.",
             "seriesId": "ACJAAri Chotau",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65542604181600",
             "catchup": false
           },
@@ -8795,7 +8795,7 @@
             "title": "Je Na Hoye",
             "desc": "Javed Akhtar interprets Vrind's doha \"Je Na Hoye\" where he says, people who are strong & internally powerful are like flowing water, they can't be still in life & always want to keep flowing. S01 E13.",
             "seriesId": "ACJAJe Na Hoye",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65542604181700",
             "catchup": false
           },
@@ -8806,7 +8806,7 @@
             "title": "Ati Parichaen",
             "desc": "Javed Akhtar interprets Vrind's doha \"Ati Parichaen\" where he talks about how familiarity breeds contempt. Hence, similarity is comforting but you need diversification to grow and appreciate. S01 E48.",
             "seriesId": "ACJAAti Parichaen",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65542604181800",
             "catchup": false
           },
@@ -8817,7 +8817,7 @@
             "title": "Chale Jo Panth",
             "desc": "Javed Akhtar interprets Vrind's doha \"Chale Jo Panth\" where he speaks about how not to be over confident about ourselves. He says there should be a give & take policy only then your talent can. S01 E31.",
             "seriesId": "ACJACJP",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65542604181900",
             "catchup": false
           },
@@ -8828,7 +8828,7 @@
             "title": "Bade Bade Saun",
             "desc": "Javed Akhtar interprets Vrind's doha \"Bade Bade Saun\" where he says, a storm destroys biggest of trees, but the small plants remain safe, similarly we should be humble to be protected from the. S01 E38.",
             "seriesId": "ACJABBS",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65542604182000",
             "catchup": false
           },
@@ -8839,7 +8839,7 @@
             "title": "Pher Na Hwey",
             "desc": "Javed Akhtar interprets Vrind's doha \"Pher Na Hwey\" where he speaks about trust, faith, relationship, love, lies & how all these aspects impact our relationships. S01 E34.",
             "seriesId": "ACJAPher Na Hwey",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65542604182100",
             "catchup": false
           },
@@ -8850,7 +8850,7 @@
             "title": "Roz Mitiye Kaise",
             "desc": "Javed Akhtar interprets Vrind's doha \"Roz Mitiye Kaise\" where he says in relationships there shouldn't be any ego & people should try to control their anger for the betterment of their. S01 E32.",
             "seriesId": "ACJARMK",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65542604182200",
             "catchup": false
           },
@@ -8861,7 +8861,7 @@
             "title": "Subodh Beech Pari",
             "desc": "Javed Akhtar interprets Vrind's doha \"Subodh Beech Pari\" where he elaborates on family bonds. He says when an understanding person tries to resolve a fight, he always aims at creating a. S01 E44.",
             "seriesId": "ACJASBP",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "65542604182300",
             "catchup": false
           }
@@ -9175,13 +9175,24 @@
             "catchup": true
           },
           {
+            "id": 93548970,
+            "startTime": 1776493800000,
+            "endTime": 1776495600000,
+            "title": "Mothers",
+            "desc": "K drama - Ep No 01, 'It's about the love of a woman for a child not her own, who is willing to put her life on the line to save the child, who is in mortal danger from her own mother.'.",
+            "seriesId": "",
+            "epgState": "REVERSE",
+            "epgSlotId": "59302604181200",
+            "catchup": true
+          },
+          {
             "id": 93548999,
             "startTime": 1776495600000,
             "endTime": 1776497400000,
             "title": "My Secret Terrius",
             "desc": "Go Ae-rin and Kim Bon discover her dead husband's involvement in a conspiracy.",
             "seriesId": "",
-            "epgState": "ON_AIR",
+            "epgState": "REVERSE",
             "epgSlotId": "59302604181230",
             "catchup": true
           },
@@ -9192,7 +9203,7 @@
             "title": "My Secret Terrius",
             "desc": "Go Ae-rin and Kim Bon discover her dead husband's involvement in a conspiracy.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59302604181300",
             "catchup": true
           },
@@ -9203,7 +9214,7 @@
             "title": "My Secret Terrius",
             "desc": "Go Ae-rin and Kim Bon discover her dead husband's involvement in a conspiracy.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59302604181330",
             "catchup": true
           },
@@ -9214,7 +9225,7 @@
             "title": "My Secret Terrius",
             "desc": "Go Ae-rin and Kim Bon discover her dead husband's involvement in a conspiracy.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59302604181400",
             "catchup": true
           },
@@ -9225,7 +9236,7 @@
             "title": "My Secret Terrius",
             "desc": "Go Ae-rin and Kim Bon discover her dead husband's involvement in a conspiracy.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59302604181430",
             "catchup": true
           },
@@ -9236,7 +9247,7 @@
             "title": "365 Repeat The Year",
             "desc": "Ten people get the opportunity to go back one year in time and encounter strange events.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59302604181500",
             "catchup": true
           },
@@ -9247,7 +9258,7 @@
             "title": "365 Repeat The Year",
             "desc": "Ten people get the opportunity to go back one year in time and encounter strange events.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59302604181530",
             "catchup": true
           },
@@ -9258,7 +9269,7 @@
             "title": "365 Repeat The Year",
             "desc": "Ten people get the opportunity to go back one year in time and encounter strange events.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59302604181600",
             "catchup": true
           },
@@ -9269,7 +9280,7 @@
             "title": "365 Repeat The Year",
             "desc": "Ten people get the opportunity to go back one year in time and encounter strange events.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59302604181630",
             "catchup": true
           },
@@ -9280,7 +9291,7 @@
             "title": "365 Repeat The Year",
             "desc": "Ten people get the opportunity to go back one year in time and encounter strange events.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59302604181700",
             "catchup": true
           },
@@ -9291,7 +9302,7 @@
             "title": "User Not Found",
             "desc": "K-drama - Episode No. 01, User Not Found is a Korean teen romance drama about two high school girls who share the same name and transfer to a new school simultaneously.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59302604181730",
             "catchup": true
           },
@@ -9302,7 +9313,7 @@
             "title": "User Not Found",
             "desc": "K-drama - Episode No. 01, User Not Found is a Korean teen romance drama about two high school girls who share the same name and transfer to a new school simultaneously.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59302604181800",
             "catchup": true
           },
@@ -9313,7 +9324,7 @@
             "title": "User Not Found",
             "desc": "K-drama - Episode No. 01, User Not Found is a Korean teen romance drama about two high school girls who share the same name and transfer to a new school simultaneously.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59302604181830",
             "catchup": true
           },
@@ -9324,7 +9335,7 @@
             "title": "User Not Found",
             "desc": "K-drama - Episode No. 01, User Not Found is a Korean teen romance drama about two high school girls who share the same name and transfer to a new school simultaneously.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59302604181900",
             "catchup": true
           },
@@ -9335,7 +9346,7 @@
             "title": "User Not Found",
             "desc": "K-drama - Episode No. 01, User Not Found is a Korean teen romance drama about two high school girls who share the same name and transfer to a new school simultaneously.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59302604181930",
             "catchup": true
           },
@@ -9346,7 +9357,7 @@
             "title": "Mothers",
             "desc": "K drama - Ep No 01, 'It's about the love of a woman for a child not her own, who is willing to put her life on the line to save the child, who is in mortal danger from her own mother.'.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59302604182000",
             "catchup": true
           },
@@ -9357,7 +9368,7 @@
             "title": "Mothers",
             "desc": "K drama - Ep No 01, 'It's about the love of a woman for a child not her own, who is willing to put her life on the line to save the child, who is in mortal danger from her own mother.'.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59302604182030",
             "catchup": true
           },
@@ -9368,7 +9379,7 @@
             "title": "Mothers",
             "desc": "K drama - Ep No 01, 'It's about the love of a woman for a child not her own, who is willing to put her life on the line to save the child, who is in mortal danger from her own mother.'.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59302604182100",
             "catchup": true
           },
@@ -9379,7 +9390,7 @@
             "title": "Mothers",
             "desc": "K drama - Ep No 01, 'It's about the love of a woman for a child not her own, who is willing to put her life on the line to save the child, who is in mortal danger from her own mother.'.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59302604182130",
             "catchup": true
           },
@@ -9390,7 +9401,7 @@
             "title": "Mothers",
             "desc": "K drama - Ep No 01, 'It's about the love of a woman for a child not her own, who is willing to put her life on the line to save the child, who is in mortal danger from her own mother.'.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59302604182200",
             "catchup": true
           },
@@ -9401,7 +9412,7 @@
             "title": "My Secret Terrius",
             "desc": "Go Ae-rin and Kim Bon discover her dead husband's involvement in a conspiracy.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59302604182230",
             "catchup": true
           },
@@ -9412,7 +9423,7 @@
             "title": "My Secret Terrius",
             "desc": "Go Ae-rin and Kim Bon discover her dead husband's involvement in a conspiracy.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59302604182300",
             "catchup": true
           },
@@ -9423,7 +9434,7 @@
             "title": "My Secret Terrius",
             "desc": "Go Ae-rin and Kim Bon discover her dead husband's involvement in a conspiracy.",
             "seriesId": "",
-            "epgState": "FORWARD",
+            "epgState": "REVERSE",
             "epgSlotId": "59302604182330",
             "catchup": true
           }
