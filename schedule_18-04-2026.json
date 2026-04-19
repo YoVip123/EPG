@@ -2187,6 +2187,28 @@
             "catchup": true
           },
           {
+            "id": 93548375,
+            "startTime": 1776493800000,
+            "endTime": 1776495600000,
+            "title": "Jhatpat Recipes",
+            "desc": "Food cravings and running out of time? Then this is just the right place for you, learn some tasty & quick to make recipes that you can savour upon. S01 E36.",
+            "seriesId": "TSCOOKJR",
+            "epgState": "REVERSE",
+            "epgSlotId": "65382604181200",
+            "catchup": true
+          },
+          {
+            "id": 93548375,
+            "startTime": 1776493800000,
+            "endTime": 1776495600000,
+            "title": "Jhatpat Recipes",
+            "desc": "Food cravings and running out of time? Then this is just the right place for you, learn some tasty & quick to make recipes that you can savour upon. S01 E36.",
+            "seriesId": "TSCOOKJR",
+            "epgState": "REVERSE",
+            "epgSlotId": "65382604181200",
+            "catchup": true
+          },
+          {
             "id": 93548371,
             "startTime": 1776495600000,
             "endTime": 1776497400000,
@@ -5996,28 +6018,6 @@
             "catchup": false
           },
           {
-            "id": 93543924,
-            "startTime": 1776493800000,
-            "endTime": 1776497400000,
-            "title": "The Kapil Sharma Show",
-            "desc": "Comedian Kapil Sharma interacts with celebrity guests about their latest films while keeping the audience laughing with his wit, humour and assorted skits. S01 E216.",
-            "seriesId": "ACOMTKSS",
-            "epgState": "REVERSE",
-            "epgSlotId": "65372604181200",
-            "catchup": false
-          },
-          {
-            "id": 93543924,
-            "startTime": 1776493800000,
-            "endTime": 1776497400000,
-            "title": "The Kapil Sharma Show",
-            "desc": "Comedian Kapil Sharma interacts with celebrity guests about their latest films while keeping the audience laughing with his wit, humour and assorted skits. S01 E216.",
-            "seriesId": "ACOMTKSS",
-            "epgState": "REVERSE",
-            "epgSlotId": "65372604181200",
-            "catchup": false
-          },
-          {
             "id": 93543939,
             "startTime": 1776497400000,
             "endTime": 1776501000000,
@@ -7608,6 +7608,17 @@
             "catchup": true
           },
           {
+            "id": 93571819,
+            "startTime": 1776504600000,
+            "endTime": 1776506400000,
+            "title": "Jaane Anjaane Hum Mile",
+            "desc": "Reet promises Raghav his release from police custody despite her own anxieties. S01 E486.",
+            "seriesId": "ZEHDJAHM",
+            "epgState": "REVERSE",
+            "epgSlotId": "66972604181500",
+            "catchup": true
+          },
+          {
             "id": 93571822,
             "startTime": 1776506400000,
             "endTime": 1776508200000,
@@ -8745,28 +8756,6 @@
             "catchup": false
           },
           {
-            "id": 93543903,
-            "startTime": 1776493800000,
-            "endTime": 1776497400000,
-            "title": "Maarag Chalte Jau",
-            "desc": "Javed Akhtar interprets Kabir's doha \"Maarag Chalte Jau\" where he says, a person walking on a path is on a journey & if he falls do not criticize him, as he is at least trying to reach. S01 E23.",
-            "seriesId": "ACJAMCJ",
-            "epgState": "REVERSE",
-            "epgSlotId": "65542604181200",
-            "catchup": false
-          },
-          {
-            "id": 93543903,
-            "startTime": 1776493800000,
-            "endTime": 1776497400000,
-            "title": "Maarag Chalte Jau",
-            "desc": "Javed Akhtar interprets Kabir's doha \"Maarag Chalte Jau\" where he says, a person walking on a path is on a journey & if he falls do not criticize him, as he is at least trying to reach. S01 E23.",
-            "seriesId": "ACJAMCJ",
-            "epgState": "REVERSE",
-            "epgSlotId": "65542604181200",
-            "catchup": false
-          },
-          {
             "id": 93543907,
             "startTime": 1776497400000,
             "endTime": 1776501000000,
@@ -8786,17 +8775,6 @@
             "seriesId": "ACJAKKA",
             "epgState": "REVERSE",
             "epgSlotId": "65542604181400",
-            "catchup": false
-          },
-          {
-            "id": 93543915,
-            "startTime": 1776504600000,
-            "endTime": 1776508200000,
-            "title": "Ucche Baithe Na",
-            "desc": ". S01 E41.",
-            "seriesId": "ACJAUBN",
-            "epgState": "REVERSE",
-            "epgSlotId": "65542604181500",
             "catchup": false
           },
           {
@@ -9183,6 +9161,28 @@
             "seriesId": "",
             "epgState": "REVERSE",
             "epgSlotId": "59302604181130",
+            "catchup": true
+          },
+          {
+            "id": 93548970,
+            "startTime": 1776493800000,
+            "endTime": 1776495600000,
+            "title": "Mothers",
+            "desc": "K drama - Ep No 01, 'It's about the love of a woman for a child not her own, who is willing to put her life on the line to save the child, who is in mortal danger from her own mother.'.",
+            "seriesId": "",
+            "epgState": "REVERSE",
+            "epgSlotId": "59302604181200",
+            "catchup": true
+          },
+          {
+            "id": 93548970,
+            "startTime": 1776493800000,
+            "endTime": 1776495600000,
+            "title": "Mothers",
+            "desc": "K drama - Ep No 01, 'It's about the love of a woman for a child not her own, who is willing to put her life on the line to save the child, who is in mortal danger from her own mother.'.",
+            "seriesId": "",
+            "epgState": "REVERSE",
+            "epgSlotId": "59302604181200",
             "catchup": true
           },
           {
