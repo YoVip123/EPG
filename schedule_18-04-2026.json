@@ -2187,17 +2187,6 @@
             "catchup": true
           },
           {
-            "id": 93548375,
-            "startTime": 1776493800000,
-            "endTime": 1776495600000,
-            "title": "Jhatpat Recipes",
-            "desc": "Food cravings and running out of time? Then this is just the right place for you, learn some tasty & quick to make recipes that you can savour upon. S01 E36.",
-            "seriesId": "TSCOOKJR",
-            "epgState": "REVERSE",
-            "epgSlotId": "65382604181200",
-            "catchup": true
-          },
-          {
             "id": 93548371,
             "startTime": 1776495600000,
             "endTime": 1776497400000,
@@ -5643,6 +5632,17 @@
             "catchup": false
           },
           {
+            "id": 93566023,
+            "startTime": 1776517200000,
+            "endTime": 1776519000000,
+            "title": "Taarak Mehta Ka Ooltah Chashmah",
+            "desc": "The game continues as Gokuldham's residents wait for their tasks. S01 E1772.",
+            "seriesId": "SABTMKOC",
+            "epgState": "REVERSE",
+            "epgSlotId": "64122604181830",
+            "catchup": false
+          },
+          {
             "id": 93566035,
             "startTime": 1776519000000,
             "endTime": 1776520800000,
@@ -6015,6 +6015,17 @@
             "seriesId": "ACOMTKSS",
             "epgState": "REVERSE",
             "epgSlotId": "65372604181100",
+            "catchup": false
+          },
+          {
+            "id": 93543924,
+            "startTime": 1776493800000,
+            "endTime": 1776497400000,
+            "title": "The Kapil Sharma Show",
+            "desc": "Comedian Kapil Sharma interacts with celebrity guests about their latest films while keeping the audience laughing with his wit, humour and assorted skits. S01 E216.",
+            "seriesId": "ACOMTKSS",
+            "epgState": "REVERSE",
+            "epgSlotId": "65372604181200",
             "catchup": false
           },
           {
@@ -7663,17 +7674,6 @@
             "catchup": true
           },
           {
-            "id": 93571807,
-            "startTime": 1776517200000,
-            "endTime": 1776519000000,
-            "title": "Ganga Mai Ki Betiyaan",
-            "desc": "Ganga raises her three daughters within Varanasi after being abandon for lacking a son. S01 E203.",
-            "seriesId": "ZEHDGMKB",
-            "epgState": "REVERSE",
-            "epgSlotId": "66972604181830",
-            "catchup": true
-          },
-          {
             "id": 93571838,
             "startTime": 1776519000000,
             "endTime": 1776521340000,
@@ -8745,6 +8745,17 @@
             "catchup": false
           },
           {
+            "id": 93543903,
+            "startTime": 1776493800000,
+            "endTime": 1776497400000,
+            "title": "Maarag Chalte Jau",
+            "desc": "Javed Akhtar interprets Kabir's doha \"Maarag Chalte Jau\" where he says, a person walking on a path is on a journey & if he falls do not criticize him, as he is at least trying to reach. S01 E23.",
+            "seriesId": "ACJAMCJ",
+            "epgState": "REVERSE",
+            "epgSlotId": "65542604181200",
+            "catchup": false
+          },
+          {
             "id": 93543907,
             "startTime": 1776497400000,
             "endTime": 1776501000000,
@@ -9161,17 +9172,6 @@
             "seriesId": "",
             "epgState": "REVERSE",
             "epgSlotId": "59302604181130",
-            "catchup": true
-          },
-          {
-            "id": 93548970,
-            "startTime": 1776493800000,
-            "endTime": 1776495600000,
-            "title": "Mothers",
-            "desc": "K drama - Ep No 01, 'It's about the love of a woman for a child not her own, who is willing to put her life on the line to save the child, who is in mortal danger from her own mother.'.",
-            "seriesId": "",
-            "epgState": "REVERSE",
-            "epgSlotId": "59302604181200",
             "catchup": true
           },
           {
