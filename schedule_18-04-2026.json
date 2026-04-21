@@ -1844,6 +1844,17 @@
             "catchup": true
           },
           {
+            "id": 93548341,
+            "startTime": 1776531600000,
+            "endTime": 1776533400000,
+            "title": "Turqoise Green Smokey Eyes Makeup",
+            "desc": "A makeup and hairstyle show that focuses on the latest make-up & hair style trends and teaches you how to get the look. S01 E01.",
+            "seriesId": "TSBTYTGSEM",
+            "epgState": "REVERSE",
+            "epgSlotId": "65282604182230",
+            "catchup": true
+          },
+          {
             "id": 93548342,
             "startTime": 1776533400000,
             "endTime": 1776535200000,
@@ -3150,17 +3161,6 @@
             "seriesId": "STPLAnupamaa",
             "epgState": "REVERSE",
             "epgSlotId": "59222604182200",
-            "catchup": false
-          },
-          {
-            "id": 93566777,
-            "startTime": 1776531600000,
-            "endTime": 1776535200000,
-            "title": "Kyunki Saas Bhi Kabhi Bahu Thi",
-            "desc": "Tulsi and Mihir Virani guide their family which has endured a lengthy passage of time. S02 E264.",
-            "seriesId": "STPLKSBKBT",
-            "epgState": "REVERSE",
-            "epgSlotId": "59222604182230",
             "catchup": false
           },
           {
@@ -5621,6 +5621,17 @@
             "catchup": false
           },
           {
+            "id": 93566023,
+            "startTime": 1776517200000,
+            "endTime": 1776519000000,
+            "title": "Taarak Mehta Ka Ooltah Chashmah",
+            "desc": "The game continues as Gokuldham's residents wait for their tasks. S01 E1772.",
+            "seriesId": "SABTMKOC",
+            "epgState": "REVERSE",
+            "epgSlotId": "64122604181830",
+            "catchup": false
+          },
+          {
             "id": 93566035,
             "startTime": 1776519000000,
             "endTime": 1776520800000,
@@ -7660,17 +7671,6 @@
             "seriesId": "ZEHDTSTT",
             "epgState": "REVERSE",
             "epgSlotId": "66972604181801",
-            "catchup": true
-          },
-          {
-            "id": 93571807,
-            "startTime": 1776517200000,
-            "endTime": 1776519000000,
-            "title": "Ganga Mai Ki Betiyaan",
-            "desc": "Ganga raises her three daughters within Varanasi after being abandon for lacking a son. S01 E203.",
-            "seriesId": "ZEHDGMKB",
-            "epgState": "REVERSE",
-            "epgSlotId": "66972604181830",
             "catchup": true
           },
           {
