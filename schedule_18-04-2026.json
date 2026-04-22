@@ -3175,6 +3175,17 @@
             "catchup": false
           },
           {
+            "id": 93566777,
+            "startTime": 1776531600000,
+            "endTime": 1776535200000,
+            "title": "Kyunki Saas Bhi Kabhi Bahu Thi",
+            "desc": "Tulsi and Mihir Virani guide their family which has endured a lengthy passage of time. S02 E264.",
+            "seriesId": "STPLKSBKBT",
+            "epgState": "REVERSE",
+            "epgSlotId": "59222604182230",
+            "catchup": false
+          },
+          {
             "id": 93566783,
             "startTime": 1776535200000,
             "endTime": 1776537000000,
@@ -3249,17 +3260,6 @@
             "seriesId": "TPSUPSMEDKDM",
             "epgState": "REVERSE",
             "epgSlotId": "69272604180200",
-            "catchup": false
-          },
-          {
-            "id": 93568736,
-            "startTime": 1776461400000,
-            "endTime": 1776465000000,
-            "title": "Kahiin To Hoga",
-            "desc": "Kashish tries to keep her father away from knowing about Meher's pregnancy. S01 E09.",
-            "seriesId": "TPSUPSKTH",
-            "epgState": "REVERSE",
-            "epgSlotId": "69272604180300",
             "catchup": false
           },
           {
@@ -5621,17 +5621,6 @@
             "catchup": false
           },
           {
-            "id": 93566023,
-            "startTime": 1776517200000,
-            "endTime": 1776519000000,
-            "title": "Taarak Mehta Ka Ooltah Chashmah",
-            "desc": "The game continues as Gokuldham's residents wait for their tasks. S01 E1772.",
-            "seriesId": "SABTMKOC",
-            "epgState": "REVERSE",
-            "epgSlotId": "64122604181830",
-            "catchup": false
-          },
-          {
             "id": 93566035,
             "startTime": 1776519000000,
             "endTime": 1776520800000,
@@ -5706,17 +5695,6 @@
             "seriesId": "SABTMKOC",
             "epgState": "REVERSE",
             "epgSlotId": "64122604182200",
-            "catchup": false
-          },
-          {
-            "id": 93699007,
-            "startTime": 1776531600000,
-            "endTime": 1776532500000,
-            "title": "Taarak Mehta Ka Ooltah Chashmah",
-            "desc": "Jethalal seeks Mr Mehta's advice to get Babita's signature on the contract for the modelling work. S01 E1832.",
-            "seriesId": "SABTMKOC",
-            "epgState": "REVERSE",
-            "epgSlotId": "64122604182230",
             "catchup": false
           },
           {
@@ -7663,6 +7641,17 @@
             "catchup": true
           },
           {
+            "id": 93571807,
+            "startTime": 1776517200000,
+            "endTime": 1776519000000,
+            "title": "Ganga Mai Ki Betiyaan",
+            "desc": "Ganga raises her three daughters within Varanasi after being abandon for lacking a son. S01 E203.",
+            "seriesId": "ZEHDGMKB",
+            "epgState": "REVERSE",
+            "epgSlotId": "66972604181830",
+            "catchup": true
+          },
+          {
             "id": 93571838,
             "startTime": 1776519000000,
             "endTime": 1776521340000,
@@ -8632,6 +8621,17 @@
             "seriesId": "ACJAJe Na Hoye",
             "epgState": "REVERSE",
             "epgSlotId": "65542604180200",
+            "catchup": false
+          },
+          {
+            "id": 93543914,
+            "startTime": 1776461400000,
+            "endTime": 1776465000000,
+            "title": "Ati Parichaen",
+            "desc": "Javed Akhtar interprets Vrind's doha \"Ati Parichaen\" where he talks about how familiarity breeds contempt. Hence, similarity is comforting but you need diversification to grow and appreciate. S01 E48.",
+            "seriesId": "ACJAAti Parichaen",
+            "epgState": "REVERSE",
+            "epgSlotId": "65542604180300",
             "catchup": false
           },
           {
