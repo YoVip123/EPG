@@ -7586,6 +7586,28 @@
             "catchup": true
           },
           {
+            "id": 93571819,
+            "startTime": 1776504600000,
+            "endTime": 1776506400000,
+            "title": "Jaane Anjaane Hum Mile",
+            "desc": "Reet promises Raghav his release from police custody despite her own anxieties. S01 E486.",
+            "seriesId": "ZEHDJAHM",
+            "epgState": "REVERSE",
+            "epgSlotId": "66972604181500",
+            "catchup": true
+          },
+          {
+            "id": 93571819,
+            "startTime": 1776504600000,
+            "endTime": 1776506400000,
+            "title": "Jaane Anjaane Hum Mile",
+            "desc": "Reet promises Raghav his release from police custody despite her own anxieties. S01 E486.",
+            "seriesId": "ZEHDJAHM",
+            "epgState": "REVERSE",
+            "epgSlotId": "66972604181500",
+            "catchup": true
+          },
+          {
             "id": 93571822,
             "startTime": 1776506400000,
             "endTime": 1776508200000,
@@ -8764,28 +8786,6 @@
             "seriesId": "ACJAKKA",
             "epgState": "REVERSE",
             "epgSlotId": "65542604181400",
-            "catchup": false
-          },
-          {
-            "id": 93543915,
-            "startTime": 1776504600000,
-            "endTime": 1776508200000,
-            "title": "Ucche Baithe Na",
-            "desc": ". S01 E41.",
-            "seriesId": "ACJAUBN",
-            "epgState": "REVERSE",
-            "epgSlotId": "65542604181500",
-            "catchup": false
-          },
-          {
-            "id": 93543915,
-            "startTime": 1776504600000,
-            "endTime": 1776508200000,
-            "title": "Ucche Baithe Na",
-            "desc": ". S01 E41.",
-            "seriesId": "ACJAUBN",
-            "epgState": "REVERSE",
-            "epgSlotId": "65542604181500",
             "catchup": false
           },
           {
