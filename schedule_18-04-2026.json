@@ -3263,6 +3263,17 @@
             "catchup": false
           },
           {
+            "id": 93568736,
+            "startTime": 1776461400000,
+            "endTime": 1776465000000,
+            "title": "Kahiin To Hoga",
+            "desc": "Kashish tries to keep her father away from knowing about Meher's pregnancy. S01 E09.",
+            "seriesId": "TPSUPSKTH",
+            "epgState": "REVERSE",
+            "epgSlotId": "69272604180300",
+            "catchup": false
+          },
+          {
             "id": 93568742,
             "startTime": 1776465000000,
             "endTime": 1776468600000,
@@ -5621,6 +5632,17 @@
             "catchup": false
           },
           {
+            "id": 93566023,
+            "startTime": 1776517200000,
+            "endTime": 1776519000000,
+            "title": "Taarak Mehta Ka Ooltah Chashmah",
+            "desc": "The game continues as Gokuldham's residents wait for their tasks. S01 E1772.",
+            "seriesId": "SABTMKOC",
+            "epgState": "REVERSE",
+            "epgSlotId": "64122604181830",
+            "catchup": false
+          },
+          {
             "id": 93566035,
             "startTime": 1776519000000,
             "endTime": 1776520800000,
@@ -7586,6 +7608,17 @@
             "catchup": true
           },
           {
+            "id": 93571819,
+            "startTime": 1776504600000,
+            "endTime": 1776506400000,
+            "title": "Jaane Anjaane Hum Mile",
+            "desc": "Reet promises Raghav his release from police custody despite her own anxieties. S01 E486.",
+            "seriesId": "ZEHDJAHM",
+            "epgState": "REVERSE",
+            "epgSlotId": "66972604181500",
+            "catchup": true
+          },
+          {
             "id": 93571822,
             "startTime": 1776506400000,
             "endTime": 1776508200000,
@@ -7638,17 +7671,6 @@
             "seriesId": "ZEHDTSTT",
             "epgState": "REVERSE",
             "epgSlotId": "66972604181801",
-            "catchup": true
-          },
-          {
-            "id": 93571807,
-            "startTime": 1776517200000,
-            "endTime": 1776519000000,
-            "title": "Ganga Mai Ki Betiyaan",
-            "desc": "Ganga raises her three daughters within Varanasi after being abandon for lacking a son. S01 E203.",
-            "seriesId": "ZEHDGMKB",
-            "epgState": "REVERSE",
-            "epgSlotId": "66972604181830",
             "catchup": true
           },
           {
@@ -8635,17 +8657,6 @@
             "catchup": false
           },
           {
-            "id": 93543914,
-            "startTime": 1776461400000,
-            "endTime": 1776465000000,
-            "title": "Ati Parichaen",
-            "desc": "Javed Akhtar interprets Vrind's doha \"Ati Parichaen\" where he talks about how familiarity breeds contempt. Hence, similarity is comforting but you need diversification to grow and appreciate. S01 E48.",
-            "seriesId": "ACJAAti Parichaen",
-            "epgState": "REVERSE",
-            "epgSlotId": "65542604180300",
-            "catchup": false
-          },
-          {
             "id": 93543908,
             "startTime": 1776465000000,
             "endTime": 1776468600000,
@@ -8764,17 +8775,6 @@
             "seriesId": "ACJAKKA",
             "epgState": "REVERSE",
             "epgSlotId": "65542604181400",
-            "catchup": false
-          },
-          {
-            "id": 93543915,
-            "startTime": 1776504600000,
-            "endTime": 1776508200000,
-            "title": "Ucche Baithe Na",
-            "desc": ". S01 E41.",
-            "seriesId": "ACJAUBN",
-            "epgState": "REVERSE",
-            "epgSlotId": "65542604181500",
             "catchup": false
           },
           {
