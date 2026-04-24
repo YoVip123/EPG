@@ -1855,6 +1855,17 @@
             "catchup": true
           },
           {
+            "id": 93548341,
+            "startTime": 1776531600000,
+            "endTime": 1776533400000,
+            "title": "Turqoise Green Smokey Eyes Makeup",
+            "desc": "A makeup and hairstyle show that focuses on the latest make-up & hair style trends and teaches you how to get the look. S01 E01.",
+            "seriesId": "TSBTYTGSEM",
+            "epgState": "REVERSE",
+            "epgSlotId": "65282604182230",
+            "catchup": true
+          },
+          {
             "id": 93548342,
             "startTime": 1776533400000,
             "endTime": 1776535200000,
@@ -3260,17 +3271,6 @@
             "seriesId": "TPSUPSMEDKDM",
             "epgState": "REVERSE",
             "epgSlotId": "69272604180200",
-            "catchup": false
-          },
-          {
-            "id": 93568736,
-            "startTime": 1776461400000,
-            "endTime": 1776465000000,
-            "title": "Kahiin To Hoga",
-            "desc": "Kashish tries to keep her father away from knowing about Meher's pregnancy. S01 E09.",
-            "seriesId": "TPSUPSKTH",
-            "epgState": "REVERSE",
-            "epgSlotId": "69272604180300",
             "catchup": false
           },
           {
@@ -5709,17 +5709,6 @@
             "catchup": false
           },
           {
-            "id": 93699007,
-            "startTime": 1776531600000,
-            "endTime": 1776532500000,
-            "title": "Taarak Mehta Ka Ooltah Chashmah",
-            "desc": "Jethalal seeks Mr Mehta's advice to get Babita's signature on the contract for the modelling work. S01 E1832.",
-            "seriesId": "SABTMKOC",
-            "epgState": "REVERSE",
-            "epgSlotId": "64122604182230",
-            "catchup": false
-          },
-          {
             "id": 93699006,
             "startTime": 1776532500000,
             "endTime": 1776533400000,
@@ -7608,17 +7597,6 @@
             "catchup": true
           },
           {
-            "id": 93571819,
-            "startTime": 1776504600000,
-            "endTime": 1776506400000,
-            "title": "Jaane Anjaane Hum Mile",
-            "desc": "Reet promises Raghav his release from police custody despite her own anxieties. S01 E486.",
-            "seriesId": "ZEHDJAHM",
-            "epgState": "REVERSE",
-            "epgSlotId": "66972604181500",
-            "catchup": true
-          },
-          {
             "id": 93571822,
             "startTime": 1776506400000,
             "endTime": 1776508200000,
@@ -8668,6 +8646,17 @@
             "catchup": false
           },
           {
+            "id": 93543914,
+            "startTime": 1776461400000,
+            "endTime": 1776465000000,
+            "title": "Ati Parichaen",
+            "desc": "Javed Akhtar interprets Vrind's doha \"Ati Parichaen\" where he talks about how familiarity breeds contempt. Hence, similarity is comforting but you need diversification to grow and appreciate. S01 E48.",
+            "seriesId": "ACJAAti Parichaen",
+            "epgState": "REVERSE",
+            "epgSlotId": "65542604180300",
+            "catchup": false
+          },
+          {
             "id": 93543908,
             "startTime": 1776465000000,
             "endTime": 1776468600000,
@@ -8786,6 +8775,17 @@
             "seriesId": "ACJAKKA",
             "epgState": "REVERSE",
             "epgSlotId": "65542604181400",
+            "catchup": false
+          },
+          {
+            "id": 93543915,
+            "startTime": 1776504600000,
+            "endTime": 1776508200000,
+            "title": "Ucche Baithe Na",
+            "desc": ". S01 E41.",
+            "seriesId": "ACJAUBN",
+            "epgState": "REVERSE",
+            "epgSlotId": "65542604181500",
             "catchup": false
           },
           {
