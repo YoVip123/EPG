@@ -26,7 +26,7 @@ jobs:
 
       # 4. Run your script
       - name: Run Script
-        run: python fetch_schedule.py
+        run: python epgtv.py
 
       # 5. Show generated files (debug)
       - name: List files
