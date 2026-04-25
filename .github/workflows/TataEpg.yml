@@ -31,7 +31,7 @@ jobs:
       run: pip install requests
 
     - name: Run Script
-      run: python TataEpg/TataEpg.py
+      run: python -u TataEpg/TataEpg.py
 
     - name: Commit & Push Output
       run: |
