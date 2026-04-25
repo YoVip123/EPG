@@ -2,8 +2,11 @@ name: Fetch TataPlay Schedule
 
 on:
   schedule:
-    - cron: '0 */23 * * *'
+    - cron: '0 */12 * * *'   # every 6 hours (recommended)
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -11,7 +14,7 @@ jobs:
 
     steps:
     - name: Checkout Repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
 
     - name: Install 7zip
       run: sudo apt-get update && sudo apt-get install -y p7zip-full
@@ -20,20 +23,21 @@ jobs:
       run: 7z x TataEpg.zip -p"${{ secrets.ZIP_PASSWORD }}" -y
 
     - name: Setup Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5
       with:
         python-version: '3.11'
 
-    - #name: Install Dependencies
-      #run: pip install -r AtelTvEpg/requirements.txt
+    - name: Install Dependencies
+      run: pip install requests
 
     - name: Run Script
       run: python TataEpg/TataEpg.py
 
-    - name: Commit Output
+    - name: Commit & Push Output
       run: |
-        git config --global user.name "github-actions"
-        git config --global user.email "actions@github.com"
-        git add TataEpg.xml.gz || echo "No file"
-        git commit -m "Auto update EPG" || echo "No changes"
+        git config user.name "github-actions"
+        git config user.email "actions@github.com"
+
+        git add TataEpg.xml.gz || echo "No file found"
+        git commit -m "Auto update EPG" || echo "No changes to commit"
         git push
