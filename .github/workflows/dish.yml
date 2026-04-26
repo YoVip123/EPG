@@ -5,6 +5,11 @@ on:
   schedule:
     - cron: "0 */12 * * *"   # every 12 hours
 
+# 🔥 Prevent multiple runs from conflicting
+concurrency:
+  group: dishtv-epg
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -13,7 +18,8 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        persist-credentials: true   # REQUIRED for git push
+        persist-credentials: true
+        fetch-depth: 0   # IMPORTANT for rebase/pull
 
     - name: Install 7zip
       run: |
@@ -27,8 +33,7 @@ jobs:
 
     - name: Install Python dependencies
       run: |
-        pip install requests
-        pip install pytz
+        pip install --no-cache-dir requests pytz
 
     - name: Decrypt protected source
       run: |
@@ -43,8 +48,8 @@ jobs:
 
     - name: Secure cleanup (destroy source)
       run: |
-        shred -u dish.py
-        rm -rf __pycache__ *.py
+        shred -u dish.py || true
+        rm -rf __pycache__ *.py || true
 
     - name: Commit generated EPG files
       run: |
@@ -55,7 +60,17 @@ jobs:
 
         if git diff --cached --quiet; then
           echo "No changes to commit"
-        else
-          git commit -m "Auto update DishTV EPG"
-          git push
+          exit 0
         fi
+
+        git commit -m "Auto update DishTV EPG"
+
+        # 🔥 Pull latest changes to avoid push rejection
+        git pull --rebase origin main
+
+        # 🔥 Retry push (handles rare race conditions)
+        git push origin main || (
+          echo "Retrying push after rebase..."
+          git pull --rebase origin main
+          git push origin main
+        )
