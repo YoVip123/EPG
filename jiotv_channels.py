@@ -15,7 +15,6 @@ HEADERS = {
     "Host": "jiotvapi.cdn.jio.com",
     "Origin": "https://www.jiotv.com",
     "Referer": "https://www.jiotv.com/",
-    "X-Requested-With": "www.jiotv.com",
 }
 # ================= FETCH =================
 def fetch_channels():
