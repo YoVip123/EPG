@@ -1,0 +1,43 @@
+name: Fetch Tata7DAY Schedule
+
+on:
+  schedule:
+    - cron: '0 */16 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+
+    - name: Install 7zip
+      run: sudo apt-get update && sudo apt-get install -y p7zip-full
+
+    - name: Extract ZIP Securely
+      run: 7z x tata7day.zip -p"${{ secrets.ZIP_PASSWORD }}" -y
+
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+
+    - name: Install Dependencies
+      run: pip install requests
+
+    - name: Run Script
+      run: python -u tata7day/tata.py
+
+    - name: Commit & Push Output
+      run: |
+        git config user.name "github-actions"
+        git config user.email "actions@github.com"
+
+        git add tata.xml.gz || echo "No file found"
+        git commit -m "Auto tata7day update EPG" || echo "No changes to commit"
+        git push
