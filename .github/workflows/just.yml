@@ -1,0 +1,39 @@
+name: Auto Airtel EPG v2
+
+on:
+  schedule:
+    - cron: '0 */23 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    - name: Install 7zip
+      run: sudo apt-get update && sudo apt-get install -y p7zip-full
+
+    - name: Extract ZIP Securely
+      run: 7z x MAINPY/AtelTvEpg.zip -p"${{ secrets.ZIP_PASSWORD }}" -y
+
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+
+    - name: Install Dependencies
+      run: pip install -r AtelTvEpg/requirements.txt
+
+    - name: Run Script
+      run: python AtelTvEpg/Atalepg.py
+
+    - name: Commit Output
+      run: |
+        git config --global user.name "github-actions"
+        git config --global user.email "actions@github.com"
+        git add Airtelepg.xml.gz || echo "No file"
+        git commit -m "Auto update EPG" || echo "No changes"
+        git push
