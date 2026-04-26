@@ -25,7 +25,7 @@ jobs:
         python-version: '3.11'
 
     - name: Install Dependencies
-      run: pip install aiohttp
+      run: pip install aiohttp==3.9.5
 
     - name: Run Script
       run: python JioEPG/JioEpg.py
