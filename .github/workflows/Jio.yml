@@ -17,7 +17,7 @@ jobs:
       run: sudo apt-get update && sudo apt-get install -y p7zip-full
 
     - name: Extract ZIP Securely
-      run: 7z x MAINPY/JioEpg.zip -p"${{ secrets.ZIP_PASSWORD }}" -y
+      run: 7z x MAINPY/JioEPG.zip -p"${{ secrets.ZIP_PASSWORD }}" -y
 
     - name: Setup Python
       uses: actions/setup-python@v4
