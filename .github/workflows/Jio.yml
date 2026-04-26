@@ -1,0 +1,39 @@
+name: Auto JIOEPG GEN v1
+
+on:
+  schedule:
+    - cron: '0 */23 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    - name: Install 7zip
+      run: sudo apt-get update && sudo apt-get install -y p7zip-full
+
+    - name: Extract ZIP Securely
+      run: 7z x MAINPY/JioEpg.zip -p"${{ secrets.ZIP_PASSWORD }}" -y
+
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+
+    - name: Install Dependencies
+      run: pip install aiohttp
+
+    - name: Run Script
+      run: python JioEPG/JioEpg.py
+
+    - name: Commit Output
+      run: |
+        git config --global user.name "github-actions"
+        git config --global user.email "actions@github.com"
+        git add jio.xml.gz || echo "No file"
+        git commit -m "Auto update EPG" || echo "No changes"
+        git push
