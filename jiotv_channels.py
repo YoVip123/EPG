@@ -6,15 +6,17 @@ API_URL = "https://jiotvapi.cdn.jio.com/apis/v3.0/getMobileChannelList/get/?lang
 
 OUTPUT_FILE = "channels.json"
 
+
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0",
     "Accept": "application/json",
+    "Accept-Encoding": "gzip",
+    "Connection": "Keep-Alive",
+    "Host": "jiotvapi.cdn.jio.com",
     "Origin": "https://www.jiotv.com",
     "Referer": "https://www.jiotv.com/",
-    "Connection": "keep-alive"
+    "X-Requested-With": "www.jiotv.com",
 }
-
-
 # ================= FETCH =================
 def fetch_channels():
     print("[+] Fetching JioTV channels...")
