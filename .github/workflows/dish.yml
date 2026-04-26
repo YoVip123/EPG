@@ -1,4 +1,4 @@
-name: DishTV EPG (Protected Source → Commit Output)
+name: DishTV EPG v1
 
 on:
   workflow_dispatch:
@@ -27,11 +27,12 @@ jobs:
 
     - name: Install Python dependencies
       run: |
-        pip install -r requirements.txt
+        pip install requests
+        pip install pytz
 
     - name: Decrypt protected source
       run: |
-        7z x dishEPGgen.zip -p"${{ secrets.DISH_ZIP_PASSWORD }}" -y
+        7z x MAINPY/dishEPGgen.zip -p"${{ secrets.DISH_ZIP_PASSWORD }}" -y
         chmod +x dish.py
 
     - name: Run DishTV EPG generator
