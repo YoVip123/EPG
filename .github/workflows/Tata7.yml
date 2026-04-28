@@ -8,6 +8,11 @@ on:
 permissions:
   contents: write
 
+# Prevent multiple runs colliding and causing push conflicts
+concurrency:
+  group: tata-epg-update
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -15,6 +20,8 @@ jobs:
     steps:
     - name: Checkout Repository
       uses: actions/checkout@v4
+      with:
+        fetch-depth: 0   # important for rebase
 
     - name: Install 7zip
       run: sudo apt-get update && sudo apt-get install -y p7zip-full
@@ -38,6 +45,19 @@ jobs:
         git config user.name "github-actions"
         git config user.email "actions@github.com"
 
+        # Add file if exists
         git add tata.xml.gz || echo "No file found"
-        git commit -m "Auto tata7day update EPG" || echo "No changes to commit"
-        git push
+
+        # Skip commit if no real changes
+        if git diff --cached --quiet; then
+          echo "No changes to commit"
+          exit 0
+        fi
+
+        git commit -m "Auto tata7day update EPG"
+
+        # Sync with remote before push (fix for your error)
+        git pull --rebase origin main
+
+        # Push safely
+        git push origin main
