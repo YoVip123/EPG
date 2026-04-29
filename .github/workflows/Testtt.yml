@@ -1,0 +1,44 @@
+name: Jio EPG Auto Sync
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      # Step 1: Trigger your PHP script
+      - name: Trigger EPG Generation
+        run: |
+          curl -s "https://api.vjayop.serv00.net/TV.php"
+
+      # Step 2: Wait for file generation (IMPORTANT)
+      - name: Wait for EPG file
+        run: |
+          echo "Waiting 8 minutes for generation..."
+          sleep 480
+
+      # Step 3: Download generated file
+      - name: Download jio.xml.gz
+        run: |
+          curl -L -o jio.xml.gz https://api.vjayop.serv00.net/jio.xml.gz
+
+      # Step 4: Verify
+      - name: Check file
+        run: |
+          ls -lh jio.xml.gz
+
+      # Step 5: Commit & Push
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add jio.xml.gz
+          git commit -m "Update Jio EPG" || echo "No changes"
+          git push
