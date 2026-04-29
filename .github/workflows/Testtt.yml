@@ -16,15 +16,15 @@ jobs:
       # Step 1: Trigger PHP (non-blocking)
       - name: Trigger EPG Generation
         run: |
-          curl -s "https://api.vjayop.serv00.net/TV.php" > /dev/null &
+          curl -s "${{ secrets.JIOGEN }}" > /dev/null &
 
-      # Step 2: Smart wait (IMPORTANT)
+      # Step 2: Smart wait
       - name: Wait until file is ready
         run: |
           for i in {1..80}; do
             echo "Checking file..."
 
-            if curl --silent --head --fail https://api.vjayop.serv00.net/jio.xml.gz > /dev/null; then
+            if curl --silent --head --fail "${{ secrets.JIOGET }}" > /dev/null; then
               echo "File ready!"
               break
             fi
@@ -32,10 +32,10 @@ jobs:
             sleep 6
           done
 
-      # Step 3: Download
+      # Step 3: Download file
       - name: Download jio.xml.gz
         run: |
-          curl -L -o jio.xml.gz https://api.vjayop.serv00.net/jio.xml.gz
+          curl -L -o jio.xml.gz "${{ secrets.JIOGET }}"
 
       # Step 4: Verify
       - name: Check file
