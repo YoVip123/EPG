@@ -3,7 +3,7 @@ name: Jio EPG Auto Sync
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */6 * * *"   # every 6 hours
+    - cron: "30 0 * * *"   # 6:00 AM IST (00:30 UTC)
 
 jobs:
   build:
@@ -13,18 +13,26 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      # Step 1: Trigger your PHP script
+      # Step 1: Trigger PHP (non-blocking)
       - name: Trigger EPG Generation
         run: |
-          curl -s "https://api.vjayop.serv00.net/TV.php"
+          curl -s "https://api.vjayop.serv00.net/TV.php" > /dev/null &
 
-      # Step 2: Wait for file generation (IMPORTANT)
-      - name: Wait for EPG file
+      # Step 2: Smart wait (IMPORTANT)
+      - name: Wait until file is ready
         run: |
-          echo "Waiting 8 minutes for generation..."
-          sleep 480
+          for i in {1..80}; do
+            echo "Checking file..."
 
-      # Step 3: Download generated file
+            if curl --silent --head --fail https://api.vjayop.serv00.net/jio.xml.gz > /dev/null; then
+              echo "File ready!"
+              break
+            fi
+
+            sleep 6
+          done
+
+      # Step 3: Download
       - name: Download jio.xml.gz
         run: |
           curl -L -o jio.xml.gz https://api.vjayop.serv00.net/jio.xml.gz
