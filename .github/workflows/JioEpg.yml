@@ -48,5 +48,7 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
           git add jio.xml.gz
-          git commit -m "Update Jio EPG" || echo "No changes"
-          git push
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "Update Jio EPG"
+          git pull --rebase origin main
+          git push origin main
