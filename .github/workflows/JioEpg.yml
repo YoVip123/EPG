@@ -26,7 +26,7 @@ jobs:
       # Step 1: Trigger PHP (non-blocking)
       - name: Trigger EPG Generation
         run: |
-          curl -s "${{ secrets.JIOGEN }}" > /dev/null &
+          curl -s "${{ secrets.JIOGEN }}" > /dev/null
 
       # Step 2: Smart wait
       - name: Wait until file is ready
