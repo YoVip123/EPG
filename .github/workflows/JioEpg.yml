@@ -3,9 +3,7 @@ name: Jio EPG Auto Sync
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 6 * * *'
-      timezone: "Asia/Kolkata"
-   # 6:00 AM IST (00:30 UTC)
+    - cron: '30 0 * * *'
 
 permissions:
   contents: write
