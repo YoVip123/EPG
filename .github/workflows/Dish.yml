@@ -1,0 +1,76 @@
+name: DishTV EPG v1
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '30 4 * * *'   # every 12 hours
+
+# 🔥 Prevent multiple runs from conflicting
+concurrency:
+  group: dishtv-epg
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        persist-credentials: true
+        fetch-depth: 0   # IMPORTANT for rebase/pull
+
+    - name: Install 7zip
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y p7zip-full
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: "3.11"
+
+    - name: Install Python dependencies
+      run: |
+        pip install --no-cache-dir requests pytz
+
+    - name: Decrypt protected source
+      run: |
+        7z x MAINPY/dishEPGgen.zip -p"${{ secrets.DISH_ZIP_PASSWORD }}" -y
+        chmod +x dish.py
+
+    - name: Run DishTV EPG generator
+      run: |
+        python dish.py
+        echo "Files after generation:"
+        ls -lh
+
+    - name: Secure cleanup (destroy source)
+      run: |
+        shred -u dish.py || true
+        rm -rf __pycache__ *.py || true
+
+    - name: Commit generated EPG files
+      run: |
+        git config user.name "github-actions"
+        git config user.email "actions@github.com"
+
+        git add MAINPY/channels.json dishtvEPG.xml.gz
+
+        if git diff --cached --quiet; then
+          echo "No changes to commit"
+          exit 0
+        fi
+
+        git commit -m "Auto update DishTV EPG"
+
+        # 🔥 Pull latest changes to avoid push rejection
+        git pull --rebase origin main
+
+        # 🔥 Retry push (handles rare race conditions)
+        git push origin main || (
+          echo "Retrying push after rebase..."
+          git pull --rebase origin main
+          git push origin main
+        )
