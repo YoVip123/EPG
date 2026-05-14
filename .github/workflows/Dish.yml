@@ -3,7 +3,7 @@ name: DishTV EPG v1
 on:
   workflow_dispatch:
   schedule:
-    - cron: '30 4 * * *'   # every 12 hours
+    - cron: '30 23 * * *'   # every 12 hours
 
 # 🔥 Prevent multiple runs from conflicting
 concurrency:
