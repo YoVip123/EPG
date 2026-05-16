@@ -35,7 +35,7 @@ jobs:
         python-version: '3.11'
 
     - name: Run Script
-      run: python -u Zee5.py
+      run: python -u zee5.py
 
     - name: Commit & Push Output
       run: |
