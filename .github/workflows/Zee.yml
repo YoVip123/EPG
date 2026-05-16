@@ -1,46 +1,60 @@
-name: Zee5 EPG Generator
+name: Auto Zee5 EPG
 
 on:
-  workflow_dispatch:
-
   schedule:
-    # Every 6 hours
-    - cron: "0 */6 * * *"
+    - cron: '30 23 * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
 
+# Prevent parallel conflicts (same as Tata style)
+concurrency:
+  group: zee5-epg-update
+  cancel-in-progress: false
+
 jobs:
-  generate-epg:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0   # REQUIRED for rebase
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
+    - name: Install 7zip
+      run: sudo apt-get update && sudo apt-get install -y p7zip-full
 
-      - name: Install Dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests
+    - name: Extract ZIP Securely
+      run: 7z x MAINPY/zee5.zip -p"${{ secrets.ZIP_PASSWORD }}" -y
 
-      - name: Run Zee5 EPG Generator
-        env:
-          ZEE5_ACCESS_TOKEN: ${{ secrets.ZEE5_ACCESS_TOKEN }}
-        run: |
-          python zee5EPGGEN.py
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
 
-      - name: Commit Updated EPG
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+    - name: Run Script
+      run: python -u Zee5.py
 
-          git add Zee5.xml.gz
+    - name: Commit & Push Output
+      run: |
+        git config user.name "github-actions"
+        git config user.email "actions@github.com"
 
-          git diff --staged --quiet || git commit -m "Update Zee5 EPG"
+        # Add file if exists
+        git add Zee5.xml.gz || echo "No file found"
 
-          git push
+        # Skip commit if no real changes
+        if git diff --cached --quiet; then
+          echo "No changes to commit"
+          exit 0
+        fi
+
+        git commit -m "Auto Zee5 EPG update"
+
+        # 🔥 CRITICAL: sync before push
+        git pull --rebase origin main
+
+        # Push safely
+        git push origin main
