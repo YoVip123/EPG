@@ -2,7 +2,7 @@ name: Auto Allinone EPG
 
 on:
   schedule:
-    - cron: '30 23 * * *'
+    - cron: '00 08 * * *'
   workflow_dispatch:
 
 permissions:
