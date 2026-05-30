@@ -3,7 +3,6 @@ name: Fetch Tata7DAY Schedule
 on:
   schedule:
     - cron: '30 23 * * *'
-    - cron: '30 5 * * *'
   workflow_dispatch:
 
 permissions:
