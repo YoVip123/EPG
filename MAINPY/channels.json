@@ -1,41 +1,29 @@
 {
   "site": "dishtv.in",
-  "total_channels": 638,
+  "total_channels": 637,
   "channels": [
-    {
-      "id": "142636",
-      "name": "&flix HD",
-      "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022J680.png?lock=360x270",
-      "language": null
-    },
     {
       "id": "142637",
       "name": "& Pictures",
-      "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002FYK4V.png?lock=360x270",
+      "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0035ZMTX.png?lock=360x270",
       "language": null
     },
     {
       "id": "142638",
       "name": "& Pictures HD",
-      "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=360x270",
+      "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0035ZMWL.png?lock=360x270",
       "language": null
     },
     {
       "id": "142640",
       "name": "&TV",
-      "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002FYKZL.png?lock=360x270",
+      "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0035NF4Z.png?lock=360x270",
       "language": null
     },
     {
       "id": "142641",
       "name": "&TV HD",
-      "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022RLRS.png?lock=360x270",
-      "language": null
-    },
-    {
-      "id": "142635",
-      "name": "&flix",
-      "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022J67W.png?lock=360x270",
+      "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0035NF8L.png?lock=360x270",
       "language": null
     },
     {
@@ -162,6 +150,18 @@
       "id": "160750",
       "name": "All Time Movies",
       "logo": "https://dtil.tmsimg.com/assets/s160750_ld_h15_aa.png?lock=360x270",
+      "language": null
+    },
+    {
+      "id": "211888",
+      "name": "Always ON",
+      "logo": "",
+      "language": null
+    },
+    {
+      "id": "211921",
+      "name": "Always ON Duplicate",
+      "logo": "",
       "language": null
     },
     {
@@ -312,6 +312,12 @@
       "id": "142710",
       "name": "Bharat 24",
       "logo": "https://dtil.tmsimg.com/assets/s142710_ld_h15_aa.png?lock=360x270",
+      "language": null
+    },
+    {
+      "id": "142711",
+      "name": "Bharat Express",
+      "logo": "https://dtil.tmsimg.com/assets/s142711_ld_h15_aa.png?lock=360x270",
       "language": null
     },
     {
@@ -813,6 +819,12 @@
       "language": null
     },
     {
+      "id": "142809",
+      "name": "DD Uttrakhand",
+      "logo": "https://dtil.tmsimg.com/assets/s142809_ld_h15_aa.png?lock=360x270",
+      "language": null
+    },
+    {
       "id": "142810",
       "name": "DD Yadagiri",
       "logo": "https://dtil.tmsimg.com/assets/s142810_ld_h15_aa.png?lock=360x270",
@@ -1245,66 +1257,6 @@
       "language": null
     },
     {
-      "id": "209611",
-      "name": "DishTV Important Update",
-      "logo": "",
-      "language": null
-    },
-    {
-      "id": "211572",
-      "name": "DishTV Important Update Duplicate",
-      "logo": "",
-      "language": null
-    },
-    {
-      "id": "211573",
-      "name": "DishTV Important Update Duplicate 1",
-      "logo": "",
-      "language": null
-    },
-    {
-      "id": "211574",
-      "name": "DishTV Important Update Duplicate 2",
-      "logo": "",
-      "language": null
-    },
-    {
-      "id": "211575",
-      "name": "DishTV Important Update Duplicate 3",
-      "logo": "",
-      "language": null
-    },
-    {
-      "id": "211576",
-      "name": "DishTV Important Update Duplicate 4",
-      "logo": "",
-      "language": null
-    },
-    {
-      "id": "211577",
-      "name": "DishTV Important Update Duplicate 5",
-      "logo": "",
-      "language": null
-    },
-    {
-      "id": "211578",
-      "name": "DishTV Important Update Duplicate 6",
-      "logo": "",
-      "language": null
-    },
-    {
-      "id": "211579",
-      "name": "DishTV Important Update Duplicate 7",
-      "logo": "",
-      "language": null
-    },
-    {
-      "id": "211580",
-      "name": "DishTV Important Update Duplicate 8",
-      "logo": "",
-      "language": null
-    },
-    {
       "id": "158825",
       "name": "India Daily 24x7",
       "logo": "https://dtil.tmsimg.com/assets/s158825_ld_h15_ab.png?lock=360x270",
@@ -1575,6 +1527,12 @@
       "language": null
     },
     {
+      "id": "213784",
+      "name": "DishTV Living India News Duplicate",
+      "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0035L9CD.png?lock=360x270",
+      "language": null
+    },
+    {
       "id": "143284",
       "name": "LOKSHAHI MARATHI",
       "logo": "https://dtil.tmsimg.com/assets/s143284_ld_h15_aa.png?lock=360x270",
@@ -1596,12 +1554,6 @@
       "id": "143297",
       "name": "Malaimurasu Seithikal",
       "logo": "https://dtil.tmsimg.com/assets/s143297_ld_h15_aa.png?lock=360x270",
-      "language": null
-    },
-    {
-      "id": "173277",
-      "name": "Malamaal Reward",
-      "logo": "",
       "language": null
     },
     {
@@ -1701,12 +1653,6 @@
       "language": null
     },
     {
-      "id": "185737",
-      "name": "MKN News",
-      "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0021LWE6.png?lock=360x270",
-      "language": null
-    },
-    {
       "id": "143548",
       "name": "MN+",
       "logo": "https://dtil.tmsimg.com/assets/s143548_ld_h15_aa.png?lock=360x270",
@@ -1797,6 +1743,12 @@
       "language": null
     },
     {
+      "id": "179441",
+      "name": "NATON 27",
+      "logo": "https://dtil.tmsimg.com/assets/GNLZZGG003593FP.png?lock=360x270",
+      "language": null
+    },
+    {
       "id": "143573",
       "name": "National Geographic Channel",
       "logo": "https://dtil.tmsimg.com/assets/s143573_ld_h15_aa.png?lock=360x270",
@@ -1836,6 +1788,12 @@
       "id": "158325",
       "name": "NDTV Rajasthan",
       "logo": "https://dtil.tmsimg.com/assets/s158325_ld_h15_aa.png?lock=360x270",
+      "language": null
+    },
+    {
+      "id": "158851",
+      "name": "Ne News",
+      "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0035969W.png?lock=360x270",
       "language": null
     },
     {
@@ -1978,8 +1936,8 @@
     },
     {
       "id": "143617",
-      "name": "NEWS18 PUNJAB",
-      "logo": "https://dtil.tmsimg.com/assets/s143617_ld_h15_aa.png?lock=360x270",
+      "name": "News18 Punjab Haryana Himachal",
+      "logo": "https://dtil.tmsimg.com/assets/GNLZZGG003419MB.png?lock=360x270",
       "language": null
     },
     {
@@ -2103,6 +2061,12 @@
       "language": null
     },
     {
+      "id": "181409",
+      "name": "Prag News",
+      "logo": "https://dtil.tmsimg.com/assets/s181409_ld_h15_aa.png?lock=360x270",
+      "language": null
+    },
+    {
       "id": "143578",
       "name": "News7",
       "logo": "https://dtil.tmsimg.com/assets/s143578_ld_h15_aa.png?lock=360x270",
@@ -2130,12 +2094,6 @@
       "id": "143676",
       "name": "Pravah Picture HD",
       "logo": "https://dtil.tmsimg.com/assets/s143676_ld_h15_aa.png?lock=360x270",
-      "language": null
-    },
-    {
-      "id": "142931",
-      "name": "Predict & Win",
-      "logo": "",
       "language": null
     },
     {
@@ -2229,9 +2187,21 @@
       "language": null
     },
     {
+      "id": "213783",
+      "name": "DishTV R.Bangla Duplicate",
+      "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0035L6LN.png?lock=360x270",
+      "language": null
+    },
+    {
       "id": "143697",
       "name": "R. Bangla",
       "logo": "https://dtil.tmsimg.com/assets/s143697_ld_h15_aa.png?lock=360x270",
+      "language": null
+    },
+    {
+      "id": "213785",
+      "name": "DishTV R.Kannada Duplicate",
+      "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0035Q1J8.png?lock=360x270",
       "language": null
     },
     {
@@ -2319,6 +2289,12 @@
       "language": null
     },
     {
+      "id": "181417",
+      "name": "Rengoni",
+      "logo": "https://dtil.tmsimg.com/assets/s181417_ld_h15_aa.png?lock=360x270",
+      "language": null
+    },
+    {
       "id": "85096",
       "name": "Reporter",
       "logo": "https://dtil.tmsimg.com/assets/s85096_ld_h15_aa.png?lock=360x270",
@@ -2334,6 +2310,12 @@
       "id": "143723",
       "name": "Republic TV",
       "logo": "https://dtil.tmsimg.com/assets/s143723_ld_h15_aa.png?lock=360x270",
+      "language": null
+    },
+    {
+      "id": "213786",
+      "name": "DishTV Republic TV Duplicate",
+      "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0035Q1VJ.png?lock=360x270",
       "language": null
     },
     {
@@ -3405,6 +3387,30 @@
       "language": null
     },
     {
+      "id": "144440",
+      "name": "Unite8 Sports 1",
+      "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00358PMY.png?lock=360x270",
+      "language": null
+    },
+    {
+      "id": "144441",
+      "name": "Unite8 Sports 1 HD",
+      "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00352H3S.png?lock=360x270",
+      "language": null
+    },
+    {
+      "id": "142635",
+      "name": "Unite8 Sports 2",
+      "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00358PX5.png?lock=360x270",
+      "language": null
+    },
+    {
+      "id": "142636",
+      "name": "Unite8 Sports 2 HD",
+      "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00358PGT.png?lock=360x270",
+      "language": null
+    },
+    {
       "id": "144047",
       "name": "V6 News",
       "logo": "https://dtil.tmsimg.com/assets/s144047_ld_h15_aa.png?lock=360x270",
@@ -3472,8 +3478,8 @@
     },
     {
       "id": "142985",
-      "name": "Watcho One",
-      "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002NT19E.png?lock=360x270",
+      "name": "Dish TV Watcho",
+      "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00340F3W.png?lock=360x270",
       "language": null
     },
     {
@@ -3576,18 +3582,6 @@
       "id": "144438",
       "name": "Zee Bollywood",
       "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022T6DM.png?lock=360x270",
-      "language": null
-    },
-    {
-      "id": "144440",
-      "name": "Zee Cafe",
-      "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022ZMMH.png?lock=360x270",
-      "language": null
-    },
-    {
-      "id": "144441",
-      "name": "Zee Cafe HD",
-      "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022ZN5H.png?lock=360x270",
       "language": null
     },
     {
@@ -3749,13 +3743,13 @@
     {
       "id": "144478",
       "name": "Zee TV",
-      "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002FYLG3.png?lock=360x270",
+      "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0035LKE2.png?lock=360x270",
       "language": null
     },
     {
       "id": "144479",
       "name": "Zee TV HD",
-      "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002FYLVC.png?lock=360x270",
+      "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0035LY1C.png?lock=360x270",
       "language": null
     },
     {
