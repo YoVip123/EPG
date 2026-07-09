@@ -1,4 +1,4 @@
-name: Fetch Tata7DAY Schedule
+name: Tata7V2 FETCH
 
 on:
   schedule:
