@@ -1,0 +1,63 @@
+name: Fetch Tata7DAY Schedule
+
+on:
+  schedule:
+    - cron: '30 23 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Prevent multiple runs colliding and causing push conflicts
+concurrency:
+  group: tata7V2-epg-update
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0   # important for rebase
+
+    - name: Install 7zip
+      run: sudo apt-get update && sudo apt-get install -y p7zip-full
+
+    - name: Extract ZIP Securely
+      run: 7z x MAINPY/tata7DayV2.zip -p"${{ secrets.ZIP_PASSWORD }}" -y
+
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+
+    - name: Install Dependencies
+      run: pip install requests
+
+    - name: Run Script
+      run: python -u tata7DayV2/tata.py
+
+    - name: Commit & Push Output
+      run: |
+        git config user.name "github-actions"
+        git config user.email "actions@github.com"
+
+        # Add file if exists
+        git add tata7dayV2.xml.gz || echo "No file found"
+
+        # Skip commit if no real changes
+        if git diff --cached --quiet; then
+          echo "No changes to commit"
+          exit 0
+        fi
+
+        git commit -m "Auto tata7DayV2 update EPG"
+
+        # Sync with remote before push (fix for your error)
+        git pull --rebase origin main
+
+        # Push safely
+        git push origin main
